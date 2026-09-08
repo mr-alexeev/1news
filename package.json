@@ -1,0 +1,13 @@
+{
+  "name": "newsnow-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Aggregates Israeli news RSS feeds into data.json every few minutes.",
+  "scripts": {
+    "fetch": "node fetch-news.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

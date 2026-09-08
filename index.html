@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>כותרות עכשיו</title>
+<style>
+  :root {
+    --bg: #f6f5f2;
+    --card: #ffffff;
+    --border: #e4e1da;
+    --text: #1c1b19;
+    --text-muted: #77746c;
+    --accent: #1f5eff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+  }
+  header {
+    position: sticky;
+    top: 0;
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    z-index: 10;
+  }
+  header h1 {
+    font-size: 19px;
+    font-weight: 600;
+    margin: 0;
+  }
+  .meta {
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  #google_translate_element {
+    font-size: 13px;
+  }
+  main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 12px 16px 60px;
+  }
+  .headline {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 14px;
+    padding: 12px 4px;
+    border-top: 1px solid var(--border);
+    text-decoration: none;
+    color: var(--text);
+  }
+  .headline:first-child { border-top: none; }
+  .headline:hover .title { color: var(--accent); }
+  .title {
+    font-size: 15px;
+    line-height: 1.55;
+  }
+  .side {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    white-space: nowrap;
+  }
+  .time {
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+  .source-tag {
+    font-size: 11px;
+    padding: 2px 9px;
+    border-radius: 999px;
+    background: #eef2ff;
+    color: #2a3ea8;
+  }
+  .status {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 13px;
+    padding: 40px 0;
+  }
+  .refresh-btn {
+    font-size: 12px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    color: var(--text);
+  }
+  .refresh-btn:hover { background: #f0efe9; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>כותרות עכשיו</h1>
+    <div class="meta" id="lastUpdated">טוען...</div>
+  </div>
+  <div class="controls">
+    <button class="refresh-btn" id="refreshBtn" type="button">רענון</button>
+    <div id="google_translate_element"></div>
+  </div>
+</header>
+
+<main>
+  <div id="list"></div>
+</main>
+
+<script>
+  const REFRESH_MS = 5 * 60 * 1000; // auto-refresh every 5 minutes
+  const listEl = document.getElementById("list");
+  const lastUpdatedEl = document.getElementById("lastUpdated");
+  const refreshBtn = document.getElementById("refreshBtn");
+
+  const SOURCE_COLORS = {};
+  const PALETTE = [
+    ["#eef2ff", "#2a3ea8"],
+    ["#eafaf0", "#127a4f"],
+    ["#fff4e5", "#a15c00"],
+    ["#fdeaea", "#a32d2d"],
+    ["#f3ecff", "#5a3ab7"],
+  ];
+  function colorForSource(name) {
+    if (!SOURCE_COLORS[name]) {
+      const idx = Object.keys(SOURCE_COLORS).length % PALETTE.length;
+      SOURCE_COLORS[name] = PALETTE[idx];
+    }
+    return SOURCE_COLORS[name];
+  }
+
+  function timeAgo(iso) {
+    if (!iso) return "";
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const mins = Math.floor(diffMs / 60000);
+    if (mins < 1) return "עכשיו";
+    if (mins < 60) return `לפני ${mins} דק'`;
+    const hours = Math.floor(mins / 60);
+    if (hours < 24) return `לפני ${hours} שע'`;
+    const days = Math.floor(hours / 24);
+    return `לפני ${days} ימים`;
+  }
+
+  function render(data) {
+    listEl.innerHTML = "";
+    if (!data.items || data.items.length === 0) {
+      listEl.innerHTML = '<div class="status">אין כותרות להצגה כרגע.</div>';
+      return;
+    }
+    for (const item of data.items) {
+      const a = document.createElement("a");
+      a.href = item.link;
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+      a.className = "headline";
+
+      const title = document.createElement("span");
+      title.className = "title";
+      title.textContent = item.title;
+
+      const side = document.createElement("span");
+      side.className = "side";
+
+      const time = document.createElement("span");
+      time.className = "time";
+      time.textContent = timeAgo(item.pubDate);
+
+      const tag = document.createElement("span");
+      tag.className = "source-tag";
+      const [bg, fg] = colorForSource(item.source);
+      tag.style.background = bg;
+      tag.style.color = fg;
+      tag.textContent = item.source;
+
+      side.appendChild(time);
+      side.appendChild(tag);
+      a.appendChild(title);
+      a.appendChild(side);
+      listEl.appendChild(a);
+    }
+  }
+
+  async function loadData() {
+    lastUpdatedEl.textContent = "מרענן...";
+    try {
+      const res = await fetch(`data.json?t=${Date.now()}`);
+      if (!res.ok) throw new Error("data.json not found");
+      const data = await res.json();
+      render(data);
+      const stamp = data.generatedAt ? new Date(data.generatedAt) : new Date();
+      lastUpdatedEl.textContent = `עודכן לאחרונה: ${stamp.toLocaleTimeString("he-IL")}`;
+    } catch (err) {
+      lastUpdatedEl.textContent = "שגיאה בטעינת הכותרות";
+      if (!listEl.innerHTML) {
+        listEl.innerHTML = '<div class="status">לא ניתן לטעון כותרות כרגע. ודאו ש-data.json קיים.</div>';
+      }
+      console.error(err);
+    }
+  }
+
+  refreshBtn.addEventListener("click", loadData);
+  loadData();
+  setInterval(loadData, REFRESH_MS);
+</script>
+
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement(
+      { pageLanguage: "iw", includedLanguages: "ru", layout: google.translate.TranslateElement.InlineLayout.SIMPLE },
+      "google_translate_element"
+    );
+  }
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</body>
+</html>
