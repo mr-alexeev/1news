@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-13T21:44:00.376Z",
+  "generatedAt": "2026-09-13T23:34:28.725Z",
   "count": 150,
   "items": [
+    {
+      "title": "טראמפ: \"אומרים שסין מרגלת אחרינו, אני אומר: אתם צודקים - וגם אנחנו מרגלים אחריהם\"",
+      "link": "https://news.walla.co.il/break/3867541",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-09-14T01:36:00.000Z"
+    },
+    {
+      "title": "בת 22 במצב קשה בעקבות אירוע אלימות באום בטין",
+      "link": "https://news.walla.co.il/break/3867540",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-09-14T01:30:00.000Z"
+    },
+    {
+      "title": "פצוע קשה ו-6 פצועים קל בתאונת דרכים בכביש 431",
+      "link": "https://news.walla.co.il/break/3867536",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-09-14T00:43:00.000Z"
+    },
     {
       "title": "באיראן מדווחים על פיצוצים בסיריק שמקורם לא ידוע",
       "link": "https://news.walla.co.il/break/3867533",
@@ -21,16 +39,64 @@
       "pubDate": "2026-09-13T22:55:00.000Z"
     },
     {
+      "title": "אישה בת 22 נפצעה באירוע אלימות באום בטין - מצבה קשה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1366000",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-09-13T22:35:45.000Z"
+    },
+    {
       "title": "שר החוץ של עומאן: נדחתה הפגישה האזורית שתוכננה להתקיים בסלאלה",
       "link": "https://news.walla.co.il/break/3867517",
       "source": "וואלה מבזקים",
       "pubDate": "2026-09-13T22:16:00.000Z"
     },
     {
+      "title": "ושוב המראה אשמה",
+      "link": "https://www.ynet.co.il/news/article/yokra14897618",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:51:42.000Z"
+    },
+    {
+      "title": "העיקר השנאה",
+      "link": "https://www.ynet.co.il/news/article/yokra14897767",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:49:27.000Z"
+    },
+    {
+      "title": "התחזית: ללא שינוי",
+      "link": "https://www.ynet.co.il/news/article/yokra14897551",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:48:00.000Z"
+    },
+    {
       "title": "פצוע קשה ושלושה פצועים קל בתאונת דרכים סמוך למחלף אשדוד",
       "link": "https://news.walla.co.il/break/3867515",
       "source": "וואלה מבזקים",
       "pubDate": "2026-09-13T21:47:00.000Z"
+    },
+    {
+      "title": "מאיפה בא הנזק באמת",
+      "link": "https://www.ynet.co.il/news/article/yokra14897544",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:45:46.000Z"
+    },
+    {
+      "title": "תאונת דרכים קשה סמוך למחלף מבוא איילון: בן 23 במצב קשה - 6 פצועים קל",
+      "link": "https://www.maariv.co.il/breaking-news/article-1365999",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-09-13T21:45:38.000Z"
+    },
+    {
+      "title": "המודיעין והקברניט",
+      "link": "https://www.ynet.co.il/news/article/yokra14897718",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:42:48.000Z"
+    },
+    {
+      "title": "חגיגה של זיוף",
+      "link": "https://www.ynet.co.il/news/article/yokra14897271",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:39:59.000Z"
     },
     {
       "title": "ארה\"ב הזהירה את אזרחיה באמירויות \"לגלות זהירות ליד אתרים יהודיים וישראליים\"",
@@ -75,6 +141,24 @@
       "pubDate": "2026-09-13T21:02:54.000Z"
     },
     {
+      "title": "\"ברית זוגית אזרחית\": המהפך של בנט - והתוכנית לשוויון לקהילה הגאה",
+      "link": "https://www.ynet.co.il/news/article/yokra14897147",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:00:00.000Z"
+    },
+    {
+      "title": "הפצצה המתקתקת בבתים של כולנו: \"אני בייסורי גוף ונפש\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14897028",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:00:00.000Z"
+    },
+    {
+      "title": "בת ה-15 הותקפה והושפלה - הוריה תובעים 120,000 שקל: \"לאלימות יש מחיר\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14897471",
+      "source": "Ynet",
+      "pubDate": "2026-09-13T21:00:00.000Z"
+    },
+    {
       "title": "\"נער של אנשים, עם חיוך טוב\": נפרדים מרס\"ר איתי פרסון שנהרג בתאונת צלילה",
       "link": "https://news.walla.co.il/item/3867506",
       "source": "וואלה חדשות",
@@ -105,7 +189,7 @@
       "pubDate": "2026-09-13T20:39:23.000Z"
     },
     {
-      "title": "אלירן אליה ממפלגת ישר! של איזנקוט הגן על יוצרי הסרט נז\"א",
+      "title": "הליכוד: אלירן אליה ממפלגת ישר! הגן על יוצרי הסרט נז\"א, איזנקוט: מפלגת השלטון לא בוחלת בשקרים",
       "link": "https://news.walla.co.il/break/3867499",
       "source": "וואלה מבזקים",
       "pubDate": "2026-09-13T20:32:00.000Z"
@@ -465,12 +549,6 @@
       "pubDate": "2026-09-13T13:39:21.000Z"
     },
     {
-      "title": "מטיילים בראש השנה: כ-160 אלף בשמורות ובגנים, 25 אלף בחופי הכינרת",
-      "link": "https://www.maariv.co.il/breaking-news/article-1365872",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-09-13T13:30:11.000Z"
-    },
-    {
       "title": "עוקרים עצים ואנשים: רגע לפני המסיק, כך מוחרבת החקלאות הפלסטינית ביו\"ש",
       "link": "https://www.ynet.co.il/news/article/yokra14894715",
       "source": "Ynet",
@@ -513,24 +591,6 @@
       "pubDate": "2026-09-13T12:04:36.000Z"
     },
     {
-      "title": "הפשיעה הלאומנית באיו\"ש: פעילי ימין מציתים שטחים חקלאיים סמוך לשכם | צפו",
-      "link": "https://www.maariv.co.il/breaking-news/article-1365856",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-09-13T11:58:04.000Z"
-    },
-    {
-      "title": "\"ישראל ככוח עולה בין האומות\": המדינה שהבטיח נתניהו בנאום הניצחון - ומה קרה בפועל",
-      "link": "https://www.ynet.co.il/news/elections2026/article/rjhzxxh00zx",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T11:56:12.000Z"
-    },
-    {
-      "title": "טראמפ: \"על אוקראינה להפסיק לתקוף בתי זיקוק\", כטב\"ם רוסי פגע ברכבת | תיעוד",
-      "link": "https://www.ynet.co.il/news/article/bydwtzvygl",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T11:46:53.000Z"
-    },
-    {
       "title": "\"נחתתי\": ההודעה האחרונה ששלח - ואז הסינים לקחו אותו",
       "link": "https://www.maariv.co.il/news/world/article-1365850",
       "source": "מעריב",
@@ -543,46 +603,16 @@
       "pubDate": "2026-09-13T11:11:00.000Z"
     },
     {
-      "title": "התשובה של האב השכול לטליק גואילי: \"אני, איש 'המחנה השני', לא אתן שיישכחו את גיבורי המלכות\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/sjsrc1etzg",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T10:30:16.000Z"
-    },
-    {
       "title": "הישראלים הגיעו לקבר רבי נחמן באומן - והכאוס חוגג ברחובות | צפו",
       "link": "https://www.maariv.co.il/news/world/article-1365844",
       "source": "מעריב",
       "pubDate": "2026-09-13T10:29:25.000Z"
     },
     {
-      "title": "במקום המדינה ה-51 - חזרה לאירופה: המהלך של קרני נגד טראמפ",
-      "link": "https://www.ynet.co.il/news/article/sjytwyvtfg",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T10:02:16.000Z"
-    },
-    {
-      "title": "הקאות ושלשולים בבסיס אחרי ארוחת החג: \"אחת הטירוניות עלתה לשמירה, ונפלה בדרך\"",
-      "link": "https://www.ynet.co.il/news/article/bjrgi0qtfe",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T09:57:34.000Z"
-    },
-    {
       "title": "הקרמלין: הודו וסין הציעו לתווך במו\"מ עם אוקראינה",
       "link": "https://news.walla.co.il/break/3867419",
       "source": "וואלה מבזקים",
       "pubDate": "2026-09-13T09:52:00.000Z"
-    },
-    {
-      "title": "\"מעדיף למות מהבושה\": השיטות המזעזעות לניצול קשישים נחשפות - וכך תיזהרו",
-      "link": "https://www.ynet.co.il/news/article/bybqbq0ofe",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T09:28:41.000Z"
-    },
-    {
-      "title": "רוצה לעצב את הנרטיב: \"הגסת' לחץ על טייסי ה-F-15 שהופל באיראן להתראיין\"",
-      "link": "https://www.ynet.co.il/news/article/sketd0mtmx",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T08:38:57.000Z"
     },
     {
       "title": "דיווחים ברשתות האיראניות: כלי שיט נפגע מירי בסמוך לאי קשם",
@@ -597,22 +627,10 @@
       "pubDate": "2026-09-13T08:00:00.000Z"
     },
     {
-      "title": "עם הגב לקיר, לבדה: הלחץ על איראן גובר, סעודיה משלמת את המחיר",
-      "link": "https://www.ynet.co.il/news/article/hkthi2mtgx",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T07:13:46.000Z"
-    },
-    {
       "title": "אינדונזיה: אבד הקשר עם ספינת נוסעים שעל סיפונה 243 בני אדם",
       "link": "https://news.walla.co.il/break/3867400",
       "source": "וואלה מבזקים",
       "pubDate": "2026-09-13T06:08:00.000Z"
-    },
-    {
-      "title": "ספינה עם מאות נוסעים \"נעלמה\" מול חופי אינדונזיה: חיפושים אחר 140 נעדרים",
-      "link": "https://www.ynet.co.il/news/article/rkz4w37kfe",
-      "source": "Ynet",
-      "pubDate": "2026-09-13T05:55:00.000Z"
     },
     {
       "title": "ממשיך להתחמם: עלייה בטמפרטורות והכבדה בעומסי החום | התחזית",
@@ -847,24 +865,6 @@
       "link": "https://news.walla.co.il/break/3867271",
       "source": "וואלה מבזקים",
       "pubDate": "2026-09-12T00:18:00.000Z"
-    },
-    {
-      "title": "דיווח דרום קוריאני: צפון קוריאה שיגרה קליע לעבר הים המזרחי",
-      "link": "https://news.walla.co.il/break/3867270",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-09-12T00:06:00.000Z"
-    },
-    {
-      "title": "ראשוני: חשד לאירוע דריסה בסמוך לרמאללה, צה\"ל מבצע סריקות",
-      "link": "https://news.walla.co.il/break/3867254",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-09-11T21:52:00.000Z"
-    },
-    {
-      "title": "חמישה פצועים בהם שניים בינוני בתאונת דרכים בכביש 854",
-      "link": "https://news.walla.co.il/break/3867260",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-09-11T21:12:00.000Z"
     },
     {
       "title": "הכוננים שהוסתרו בארון חשפו: עשרות תיעודים מיניים של קטינים",
