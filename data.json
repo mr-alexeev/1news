@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-09-23T23:58:42.946Z",
+  "generatedAt": "2026-09-24T03:15:08.921Z",
   "count": 150,
   "items": [
+    {
+      "title": "תחזית מזג האוויר: טמפרטורות רגילות לעונה",
+      "link": "https://www.ynet.co.il/news/article/o7ih8p81p",
+      "source": "Ynet",
+      "pubDate": "2026-09-24T03:08:16.000Z"
+    },
+    {
+      "title": "חיזבאללה על סף שבירה? חישוב המסלול מחדש של ארגון הטרור בלבנון | אבי אשכנזי",
+      "link": "https://www.maariv.co.il/news/military/article-1370114",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "ללא שינוי ניכר בטמפרטורות - אך בשישי ייתכן טפטוף | תחזית מזג האוויר",
+      "link": "https://www.maariv.co.il/news/weather/article-1370108",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "שש שעות שיכריעו את הגורל הבחירות: ההפתעות שמכין נתניהו בנאום באו\"ם| אנה ברסקי",
+      "link": "https://www.maariv.co.il/news/politics/article-1370092",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "הקרב על אילת מתחיל בים האדום: התוכנית שתשנה את המאזן מול החות'ים | ד\"ר עופר ישראלי",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370083",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "קרא",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370082",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "\"פה אני זוכרת הכל ושוכחת הכל בו-זמנית\"",
+      "link": "https://www.maariv.co.il/news/health/article-1370081",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "מהמרים על החיים: שלוש שנים אחרי הטבח – כל הזירות עדיין פתוחות | יוסי הדר",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370078",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "הילדים של 2026 לומדים בשיטה של המאה הקודמת | ענת כנפו",
+      "link": "https://www.maariv.co.il/news/opinions/article-1370075",
+      "source": "מעריב",
+      "pubDate": "2026-09-24T03:00:46.000Z"
+    },
+    {
+      "title": "חסיד ברסלב שנעצר באוקראינה גויס לצבא - ויוצב כרופא בחרקוב: \"אין פטורים\"",
+      "link": "https://www.ynet.co.il/news/article/skk1mh119me",
+      "source": "Ynet",
+      "pubDate": "2026-09-24T02:54:05.000Z"
+    },
+    {
+      "title": "בשם ה\"גיוון\": האוניברסיטה היוקרתית החליפה סטודנט לבן בדמות AI שחורה",
+      "link": "https://www.ynet.co.il/news/article/by4mpcbqfe",
+      "source": "Ynet",
+      "pubDate": "2026-09-24T00:42:15.000Z"
+    },
     {
       "title": "עם קבלת פנים של דונלד טראמפ: נשיא סין נחת בארצות הברית",
       "link": "https://www.maariv.co.il/breaking-news/article-1370147",
@@ -243,30 +309,6 @@
       "pubDate": "2026-09-23T16:33:16.000Z"
     },
     {
-      "title": "הבכיר לשעבר זועם על ישראל כ\"ץ: \"תגידו לו שהצענו את זה לפני שנתיים וחצי\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1370070",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T16:28:26.000Z"
-    },
-    {
-      "title": "\"חלק בלתי נפרד ממדינת ישראל לתמיד\": כ\"ץ משיב לנאום א-שרע",
-      "link": "https://www.maariv.co.il/news/military/article-1370068",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T16:27:58.000Z"
-    },
-    {
-      "title": "במקום עם הנוף הכי יפה בחיפה: הספסל שהוקם לזכר דנה דניאלה פטרנקו",
-      "link": "https://www.maariv.co.il/news/israel/article-1370067",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T16:16:14.000Z"
-    },
-    {
-      "title": "מנדלבליט בדרך החוצה? ההתפתחות החדשה במשפט נתניהו",
-      "link": "https://www.maariv.co.il/news/law/article-1370066",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T16:15:48.000Z"
-    },
-    {
       "title": "תוכנית המיליארדים לעזה של מועצת השלום: \"חמאס מוכן להתפרק מנשקו\"",
       "link": "https://www.ynet.co.il/news/article/hjf9svz9fl",
       "source": "Ynet",
@@ -283,24 +325,6 @@
       "link": "https://www.maariv.co.il/breaking-news/article-1370062",
       "source": "מעריב מבזקים",
       "pubDate": "2026-09-23T16:03:56.000Z"
-    },
-    {
-      "title": "\"לשי אין עניין לתת לטראמפ שום דבר\": לקראת פסגת סין-ארה\"ב | האזינו",
-      "link": "https://www.maariv.co.il/news/world/article-1370059",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T16:02:06.000Z"
-    },
-    {
-      "title": "מלך ירדן מבוהל מההשלכות הצפויות: \"תכרכו את החבל סביב צווארכם\"",
-      "link": "https://www.maariv.co.il/news/military/article-1370061",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T15:57:59.000Z"
-    },
-    {
-      "title": "עזה לא כפי שהייתה: תוכנית הענק של טראמפ לשלב הבא ברצועה נחשפה",
-      "link": "https://www.maariv.co.il/news/politics/article-1370060",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T15:44:46.000Z"
     },
     {
       "title": "יוצרי סאות'פארק ממשיכים ללעוג לדונלד טראמפ - כל הפרטים",
@@ -325,12 +349,6 @@
       "link": "https://www.maariv.co.il/breaking-news/article-1370053",
       "source": "מעריב מבזקים",
       "pubDate": "2026-09-23T15:33:08.000Z"
-    },
-    {
-      "title": "בזמן ששיקר מעל בימת האו\"ם - לנשיא איראן יש בכלל מטרה אחת אחרת",
-      "link": "https://www.maariv.co.il/news/world/article-1370050",
-      "source": "מעריב",
-      "pubDate": "2026-09-23T15:31:07.000Z"
     },
     {
       "title": "במאית \"ברבי\" חוזרת עם הפקת ענק של נטפליקס - ומריל סטריפ",
@@ -403,24 +421,6 @@
       "link": "https://www.ynet.co.il/news/article/syvvx11zqmg",
       "source": "Ynet",
       "pubDate": "2026-09-23T11:49:08.000Z"
-    },
-    {
-      "title": "\"לב שלי, נכנסים\": גילתה שבן זוגה התחזה לאיש שב\"כ שמשפחתו נרצחה - והחליטה לחשוף אותו",
-      "link": "https://www.ynet.co.il/news/article/ryxuu7b5zl",
-      "source": "Ynet",
-      "pubDate": "2026-09-23T11:19:19.000Z"
-    },
-    {
-      "title": "כתב אישום נגד שני מחבלים משכם: תכננו לחטוף חייל ולהתנקש בבן גביר",
-      "link": "https://www.ynet.co.il/news/article/byo1qe11czx",
-      "source": "Ynet",
-      "pubDate": "2026-09-23T11:08:34.000Z"
-    },
-    {
-      "title": "\"ברית מורדים\" באתיופיה: מתקפה נרחבת על כוחות הממשלה, חשש מחידוש מלחמת האזרחים",
-      "link": "https://www.ynet.co.il/news/article/hj7lyg11cfl",
-      "source": "Ynet",
-      "pubDate": "2026-09-23T11:07:41.000Z"
     },
     {
       "title": "גבר בן 52 נפצע קשה במהלך עבודתו בנצרת: מצבו קשה",
