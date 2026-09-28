@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-27T22:12:58.638Z",
+  "generatedAt": "2026-09-28T00:47:46.066Z",
   "count": 150,
   "items": [
+    {
+      "title": "מפחדים מהקפה החמישי? גם הקפה של הבוקר עלול לפגוע לכם בשינה בלילה",
+      "link": "https://www.maariv.co.il/news/viral/article-1371365",
+      "source": "מעריב",
+      "pubDate": "2026-09-27T23:18:00.000Z"
+    },
+    {
+      "title": "7 התאבדויות בתוך חמישה ימים: שוטרים בטורקיה יוצאים לשביתה",
+      "link": "https://www.maariv.co.il/news/viral/article-1371364",
+      "source": "מעריב",
+      "pubDate": "2026-09-27T22:56:10.000Z"
+    },
+    {
+      "title": "שוב ושוב - עד 48 שעות לפני 7 באוקטובר: הפרטים החדשים על אזהרות מצרים",
+      "link": "https://www.maariv.co.il/news/military/article-1371362",
+      "source": "מעריב",
+      "pubDate": "2026-09-27T22:23:12.000Z"
+    },
     {
       "title": "דיווח: מצרים הזהירה את ישראל שוב ושוב לפני ה-7 באוקטובר",
       "link": "https://www.maariv.co.il/breaking-news/article-1371361",
@@ -61,6 +79,18 @@
       "link": "https://www.ynet.co.il/news/elections2026/article/skge2ru9fl",
       "source": "Ynet",
       "pubDate": "2026-09-27T21:08:08.000Z"
+    },
+    {
+      "title": "נתניהו נגד נתניהו: ההנחיות שניתנו לפני 7 באוקטובר",
+      "link": "https://www.ynet.co.il/news/article/yokra14910988",
+      "source": "Ynet",
+      "pubDate": "2026-09-27T21:00:00.000Z"
+    },
+    {
+      "title": "פינוי או בינוי: מה התוכנית של כל מפלגה ליו\"ש",
+      "link": "https://www.ynet.co.il/news/elections2026/article/yokra14910407",
+      "source": "Ynet",
+      "pubDate": "2026-09-27T21:00:00.000Z"
     },
     {
       "title": "נריה קראוס צפתה בסרט \"נז\"א\" בהקרנה בארה\"ב וממש לא התחברה: \"זאת האמת על הסרט\"",
@@ -363,12 +393,6 @@
       "pubDate": "2026-09-27T12:16:51.000Z"
     },
     {
-      "title": "מה הפיל את ה\"עטלף\"? צה\"ל עדיין בלי תשובה אחרי מות הלוחמים",
-      "link": "https://www.maariv.co.il/news/military/article-1371220",
-      "source": "מעריב",
-      "pubDate": "2026-09-27T12:16:15.000Z"
-    },
-    {
       "title": "עו\"ד עודד שפירר מונה לתפקיד מנכ\"ל המרכז האקדמי לוינסקי־וינגייט",
       "link": "https://www.maariv.co.il/news/education/article-1371222",
       "source": "מעריב",
@@ -393,34 +417,10 @@
       "pubDate": "2026-09-27T12:05:45.000Z"
     },
     {
-      "title": "\"היא יושבת ליד הדלת שלי, טוענת שאני חייזר\": המקרה ההזוי באילת - שיצא משליטה",
-      "link": "https://www.maariv.co.il/news/law/article-1371206",
-      "source": "מעריב",
-      "pubDate": "2026-09-27T12:00:58.000Z"
-    },
-    {
       "title": "במשאל עם: שווייץ הצביעה נגד הצעה \"פרו רוסית\" להיות \"עוד יותר ניטרלית\"",
       "link": "https://www.ynet.co.il/news/article/bkxmcu85gg",
       "source": "Ynet",
       "pubDate": "2026-09-27T11:42:08.000Z"
-    },
-    {
-      "title": "איראן מציגה \"שלל\" אמריקני חדש - הפנטגון: אין בו סודות",
-      "link": "https://www.maariv.co.il/news/world/article-1371196",
-      "source": "מעריב",
-      "pubDate": "2026-09-27T11:13:06.000Z"
-    },
-    {
-      "title": "אלי שרעבי ביקר בסוכת משפחת קסאו: \"לעשות הכול כדי להחזיר את היימנוט\"",
-      "link": "https://www.ynet.co.il/news/article/rkypevicmx",
-      "source": "Ynet",
-      "pubDate": "2026-09-27T10:28:18.000Z"
-    },
-    {
-      "title": "החתן נעצר, החתונה התקיימה בלעדיו וביהמ\"ש מתח ביקורת חריפה: \"אין ראיות\"",
-      "link": "https://www.ynet.co.il/news/article/s1ftiu8czg",
-      "source": "Ynet",
-      "pubDate": "2026-09-27T10:12:16.000Z"
     },
     {
       "title": "אחרי התחממות קלה: ירידה בטמפרטורות וגשם מקומי במהלך השבוע | התחזית",
