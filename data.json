@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-09-30T21:02:32.847Z",
+  "generatedAt": "2026-10-01T00:30:03.598Z",
   "count": 150,
   "items": [
+    {
+      "title": "יותר מ-20 נפגעים בשריפה בבית אבות בבני ברק, שניים במצב קשה",
+      "link": "https://www.ynet.co.il/news/article/b1wenzjcme",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T23:40:55.000Z"
+    },
+    {
+      "title": "שריפה פרצה בבית אבות בבני ברק: עשרות פונו - שניים במצב קשה",
+      "link": "https://www.maariv.co.il/news/israel/article-1372405",
+      "source": "מעריב",
+      "pubDate": "2026-09-30T23:31:15.000Z"
+    },
+    {
+      "title": "נתניהו חושף כי הטייס התוקף נמצא בחקירה: \"נגלה בקרוב מאוד אם לאיראן היה קשר\"",
+      "link": "https://www.maariv.co.il/news/world/article-1372404",
+      "source": "מעריב",
+      "pubDate": "2026-09-30T23:05:25.000Z"
+    },
+    {
+      "title": "\"שרברב ישראלי הציל את המטוס - בזכות סדרת טלוויזיה\": גרסת טראמפ לטיסת פליי דובאי",
+      "link": "https://www.ynet.co.il/news/article/hkmgzwj9mg",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T22:52:27.000Z"
+    },
+    {
+      "title": "שריפה פרצה בבניין מגורים בבני ברק - מספר פצועים במקום, שניים במצב קשה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372403",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-09-30T22:24:26.000Z"
+    },
+    {
+      "title": "התרחיש שבו מטוס פליי דובאי היה מופל, ויחידות העילית שעלו על הפרק",
+      "link": "https://www.ynet.co.il/news/article/skgo6tq5zx",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T22:19:19.000Z"
+    },
+    {
+      "title": "כל אחד מהם תרם משהו. ביחד הם הצילו 174 נוסעים מאסון",
+      "link": "https://www.ynet.co.il/news/article/rjdgga5czg",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T22:14:19.000Z"
+    },
+    {
+      "title": "שחרור החשודים בתכנון הפיגוע בבריטניה: טראמפ אומר כי מידע נוסף על שחרורם ייחשף",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372402",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-09-30T21:51:12.000Z"
+    },
+    {
+      "title": "\"השרברב הישראלי שמע את הצרחות\": טראמפ מגיב לדרמה בטיסת פליי דובאי",
+      "link": "https://www.maariv.co.il/news/world/article-1372401",
+      "source": "מעריב",
+      "pubDate": "2026-09-30T21:34:13.000Z"
+    },
+    {
+      "title": "לעיני ילדו הקטן: תושב שוהם הותקף לפי החשד אחרי שהעיר לשני רוכבי אופנוע",
+      "link": "https://www.maariv.co.il/news/law/article-1372391",
+      "source": "מעריב",
+      "pubDate": "2026-09-30T21:10:50.000Z"
+    },
+    {
+      "title": "טראמפ: \"שוחחתי עם נתניהו - טייס המשנה היה כנראה מחבל או משוגע\"",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372400",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-09-30T21:07:24.000Z"
+    },
+    {
+      "title": "פירומנים קיימים גם בימין וגם בשמאל",
+      "link": "https://www.ynet.co.il/news/article/yokra14914296",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T21:03:00.000Z"
+    },
+    {
+      "title": "כולם יכלו להיות עכשיו תחת סוכה אחת של שלום",
+      "link": "https://www.ynet.co.il/news/article/yokra14914740",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T21:03:00.000Z"
+    },
+    {
+      "title": "כולם אחראים למחדל",
+      "link": "https://www.ynet.co.il/news/article/yokra14914289",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T21:03:00.000Z"
+    },
+    {
+      "title": "אמנות הזיהום הפוליטי",
+      "link": "https://www.ynet.co.il/news/article/yokra14914343",
+      "source": "Ynet",
+      "pubDate": "2026-09-30T21:03:00.000Z"
+    },
     {
       "title": "דיווח ראשוני: ישראלי נרצח באי קופנגן בתאילנד",
       "link": "https://www.maariv.co.il/breaking-news/article-1372396",
@@ -39,12 +129,6 @@
       "pubDate": "2026-09-30T19:38:50.000Z"
     },
     {
-      "title": "התרחיש שבו מטוס פליי דובאי היה מופל, ויחידות העילית שעלו על הפרק",
-      "link": "https://www.ynet.co.il/news/article/skgo6tq5zx",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T19:36:11.000Z"
-    },
-    {
       "title": "\"140 ק\"ג ומעלה\": דרום קוריאה מביכה את קים ג'ונג און",
       "link": "https://www.maariv.co.il/news/world/article-1372381",
       "source": "מעריב",
@@ -55,12 +139,6 @@
       "link": "https://www.ynet.co.il/news/article/skqncpcqfg",
       "source": "Ynet",
       "pubDate": "2026-09-30T19:12:03.000Z"
-    },
-    {
-      "title": "כל אחד מהם תרם משהו. ביחד הם הצילו 174 נוסעים מאסון",
-      "link": "https://www.ynet.co.il/news/article/rjdgga5czg",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T19:09:39.000Z"
     },
     {
       "title": "הם מנעו אסון בשמיים – וברשת הפכו אותם לאשמים: המתקפה הוויראלית על נוסעי פליי דובאי",
@@ -291,58 +369,16 @@
       "pubDate": "2026-09-30T15:21:01.000Z"
     },
     {
-      "title": "\"כל לילה זה קורה\": תושבי העמק מתלוננים על ירי בלתי פוסק",
-      "link": "https://www.maariv.co.il/news/israel/article-1372310",
-      "source": "מעריב",
-      "pubDate": "2026-09-30T15:16:47.000Z"
-    },
-    {
-      "title": "ניידות טיפול נמרץ ואמבולנסים ערוכים לקבל את הטיסה מסעודיה | צפו",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372307",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-09-30T14:59:59.000Z"
-    },
-    {
-      "title": "תרופת פלא לשינה או סיכון מיותר? האמת מאחורי הטרנד הוויראלי בטיקטוק",
-      "link": "https://www.maariv.co.il/news/health/article-1372302",
-      "source": "מעריב",
-      "pubDate": "2026-09-30T14:55:55.000Z"
-    },
-    {
-      "title": "108 מיליון דולר בסופ\"ש אחד: הלהיט שהחזיר את הגיימרים לקולנוע",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372301",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-09-30T14:40:43.000Z"
-    },
-    {
       "title": "בדקה ה-90: נעצרה הוצאתה להורג של \"הרוצחת השטנית\" קריסטה פייק",
       "link": "https://www.ynet.co.il/news/article/s1lkuqq5fe",
       "source": "Ynet",
       "pubDate": "2026-09-30T14:40:05.000Z"
     },
     {
-      "title": "אחרי שנים בחוץ: ג'וני דפ חוזר בתפקיד שכולם ידברו עליו",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372300",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-09-30T14:38:59.000Z"
-    },
-    {
       "title": "מפקד הכוח מג'אלוד: \"חיפשו כל דרך להיכנס לבית המשפחה כדי לעשות לינץ'\"",
       "link": "https://www.ynet.co.il/news/article/bkgkty9qml",
       "source": "Ynet",
       "pubDate": "2026-09-30T14:36:29.000Z"
-    },
-    {
-      "title": "אחרי פליי דובאי: התרחיש שמספיק כדי לסגור את שמי ישראל",
-      "link": "https://www.maariv.co.il/news/military/article-1372289",
-      "source": "מעריב",
-      "pubDate": "2026-09-30T14:07:33.000Z"
-    },
-    {
-      "title": "ישראל נגד FlyDubai: נתניהו החליט על צעד בעקבות האירוע",
-      "link": "https://www.maariv.co.il/news/military/article-1372287",
-      "source": "מעריב",
-      "pubDate": "2026-09-30T14:04:33.000Z"
     },
     {
       "title": "היה מידע על פיגוע במטוס ולא נערכו? כ\"ץ: \"השמענו התרעות מבוססות מודיעין\"",
@@ -385,42 +421,6 @@
       "link": "https://www.ynet.co.il/news/article/hyrzwv9cme",
       "source": "Ynet",
       "pubDate": "2026-09-30T11:15:18.000Z"
-    },
-    {
-      "title": "\"צריכים עזרה!\": התיעודים מרגעי האימה במטוס - ועדויות הנוסעים שהשתלטו על הטייס",
-      "link": "https://www.ynet.co.il/news/article/bjvyr8ccfg",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T10:15:11.000Z"
-    },
-    {
-      "title": "הצלילה, שידור קוד החטיפה והזנקת מטוסי הקרב: הדרמה בטיסת פליי דובאי - דקה אחר דקה",
-      "link": "https://www.ynet.co.il/news/article/r17juuqqme",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T10:13:29.000Z"
-    },
-    {
-      "title": "\"קטטה בין טייסים\", \"הוזנקו מטוסי קרב\": ניסיון הפיגוע בטיסת פליי דובאי בכותרות בעולם",
-      "link": "https://www.ynet.co.il/news/article/s1srrhccgg",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T10:11:45.000Z"
-    },
-    {
-      "title": "המטוס המלזי והטייס ששקע בדיכאון והתרסק לאלפים: כשהקברניט מחליט להתאבד עם הנוסעים",
-      "link": "https://www.ynet.co.il/news/article/hjeyxiqcgl",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T10:01:50.000Z"
-    },
-    {
-      "title": "שתיקת הכבשים: דממה בקואליציה אחרי קריאות \"צה\"ל אויב\" בלב ירושלים",
-      "link": "https://www.ynet.co.il/news/elections2026/article/r1gmpr59zl",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T09:37:46.000Z"
-    },
-    {
-      "title": "בעקבות התקרית במטוס: נתניהו ביטל ביקור בדרום; שב\"כ יתחקר את הנוסעים עם נחיתתם",
-      "link": "https://www.ynet.co.il/news/article/syo4buc9fe",
-      "source": "Ynet",
-      "pubDate": "2026-09-30T09:34:43.000Z"
     },
     {
       "title": "אחרי התחממות קלה: ירידה בטמפרטורות וגשם מקומי במהלך השבוע | התחזית",
