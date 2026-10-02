@@ -1,24 +1,324 @@
 {
-  "generatedAt": "2026-10-02T02:08:29.867Z",
+  "generatedAt": "2026-10-02T08:25:19.587Z",
   "count": 150,
   "items": [
     {
-      "title": "נפתר משבר טיסות החילוץ מדובאי: ייצאו היום - אך צפוי עיכוב",
+      "title": "לא להאמין: פרטים חדשים נחשפו על הטייס של FlyDubai שכמעט ריסק את המטוס",
+      "link": "https://www.maariv.co.il/news/israel/article-1372884",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T08:11:34.000Z"
+    },
+    {
+      "title": "M16 עם משתיק קול ותחמושת נתפסו ברמלה; יותר מ-20 ק\"ג סמים אותרו בלוד",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372883",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T08:11:06.000Z"
+    },
+    {
+      "title": "הפיצוצים המסתוריים נחשפים: איראן תוקפת כמעט מדי יום בהורמוז",
+      "link": "https://www.maariv.co.il/news/world/article-1372881",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T08:07:35.000Z"
+    },
+    {
+      "title": "הישראלים נוהרים לשם: מחיר החופשה ל'מדינה ללא הפסקה' הפך לאטרקטיבי ביותר",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372880",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T08:05:48.000Z"
+    },
+    {
+      "title": "חשד שעבריינים הציתו חדר חשמל במכון טיהור: השפכים בדרך לב\"ש",
+      "link": "https://www.ynet.co.il/news/article/r1s3g1p9fl",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T08:05:27.000Z"
+    },
+    {
+      "title": "אישה כבת 80 נפצעה באורח בינוני ושלושה בני אדם באורח קל לאחר שנפגעו מרכב בשדרות רוטשילד בראשון לציון",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372878",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T07:53:05.000Z"
+    },
+    {
+      "title": "להחשיך את קייב: התוכנית הרוסית לחורף באוקראינה",
+      "link": "https://www.maariv.co.il/news/world/article-1372876",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T07:46:58.000Z"
+    },
+    {
+      "title": "חשד לחטיפה בדרום תל אביב: אדם הוכנס בכוח לרכב, חמישה נעצרו",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372871",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T07:28:10.000Z"
+    },
+    {
+      "title": "גבר בן 77 נפצע באורח בינוני באירוע אלימות ברחוב גיורא יוספטל בקרית ים",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372870",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T07:27:43.000Z"
+    },
+    {
+      "title": "הולך רגל בן 93 נפצע באורח בינוני מרכב ברחוב דוב גור באשדוד",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372869",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T07:24:59.000Z"
+    },
+    {
+      "title": "מודי בשיחה עם הטייס שנפצע בטיסה לתל אביב: \"האומץ שלך מנע טרגדיה\"",
+      "link": "https://www.maariv.co.il/news/world/article-1372867",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T07:24:13.000Z"
+    },
+    {
+      "title": "משאירים את הרכב ונוסעים בחינם: המתחם החדש בדרך לתל אביב",
+      "link": "https://www.maariv.co.il/news/israel/article-1372859",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T07:21:04.000Z"
+    },
+    {
+      "title": "גבר כבן 56 נפצע באורח אנוש לאחר שנפל מגובה רב באתר בניה בירושלים",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372864",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T07:19:39.000Z"
+    },
+    {
+      "title": "קשר ברשת, משימות ותשלום: הישראלי שנחשד בגיוס בידי איראן",
+      "link": "https://www.maariv.co.il/news/military/article-1372862",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T07:19:36.000Z"
+    },
+    {
+      "title": "ופרת הילדים ההיסטורית \"ברונדיבר\" רואה אור בעברית – ותחולק בחינם לילדים בישראל",
+      "link": "https://www.maariv.co.il/news/world/article-1372856",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:59:42.000Z"
+    },
+    {
+      "title": "רגב: יש אישור לטיסות לדובאי; אל על ביטלה, ארקיע תביא ישראלים ראשונה",
       "link": "https://www.ynet.co.il/news/article/bkykxlnqzg",
       "source": "Ynet",
-      "pubDate": "2026-10-02T00:14:06.000Z"
+      "pubDate": "2026-10-02T06:59:25.000Z"
     },
     {
-      "title": "דיווח: טראמפ מתכנן להפציץ את איראן בנובמבר - עם הגעת נושאת המטוסים",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372795",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T22:48:40.000Z"
+      "title": "הטייס הגיבור הופיע בטלוויזיה מביה\"ח: \"ידעתי שאלה שניות אחרונות, זחלתי ופתחתי את הדלת\"",
+      "link": "https://www.ynet.co.il/news/article/h1zi11r29gx",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T06:44:32.000Z"
     },
     {
-      "title": "דיווח: מצרים מסלקת את השגריר האתיופי ממדינתה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372794",
+      "title": "\"הוא ינסה לחטוף חיילים\": ההערכה הדרמטית של גורם צבאי בכיר | אבי אשכנזי",
+      "link": "https://www.maariv.co.il/news/military/article-1372852",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:42:55.000Z"
+    },
+    {
+      "title": "טיסת ההדרכה נגמרה באסון: מטוס התרסק בוואדי ערה, אדם נהרג",
+      "link": "https://www.maariv.co.il/news/israel/article-1372851",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:39:04.000Z"
+    },
+    {
+      "title": "שתי סוללות פטריוט ועד שלוש נושאות מטוסים: ארה\"ב מתגברת כוחות",
+      "link": "https://www.maariv.co.il/news/world/article-1372847",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:36:02.000Z"
+    },
+    {
+      "title": "הרוג ופצוע בינוני בהתרסקות מטוס קל בוואדי ערה | תיעוד מהזירה",
+      "link": "https://www.ynet.co.il/news/article/h1l3a6h5fg",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T06:30:20.000Z"
+    },
+    {
+      "title": "הסנאט זוכר ומכבד, נבחרי הכנסת רבים עם משפחות נפגעי 7/10",
+      "link": "https://www.ynet.co.il/news/article/rks9isq9ge",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T06:27:33.000Z"
+    },
+    {
+      "title": "מטוס קל התרסק סמוך לכפר קרע - כוחות החירום בזירה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372845",
       "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T22:16:46.000Z"
+      "pubDate": "2026-10-02T06:20:19.000Z"
+    },
+    {
+      "title": "33 יישובים, 18 אוטובוסים ואפס שקלים: המהלך החדש בגלבוע",
+      "link": "https://www.maariv.co.il/news/israel/article-1372843",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:14:39.000Z"
+    },
+    {
+      "title": "אישה בת 40 וגבר בן 36 נפצעו באורח בינוני בתאונת דרכים בכביש 25 בסמוך לאבו קוידר",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372842",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T06:13:25.000Z"
+    },
+    {
+      "title": "פועל בן 25 נפצע באורח בינוני לאחר שנפל מגובה במהלך עבודתו בדרך הציונות באריאל",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372841",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T06:10:55.000Z"
+    },
+    {
+      "title": "רוכב אופנוע בן 18 נפצע באורח בינוני במהלך רכיבה ברחוב שבטי ישראל בירושלים",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372840",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T06:08:03.000Z"
+    },
+    {
+      "title": "שוב המערכת נרדמה - ושוב הישראלים הצילו את המצב | בן כספית",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372839",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T06:07:56.000Z"
+    },
+    {
+      "title": "שוב אף אחד לא אחראי: עם של אריות מונהג בידי חבורה של ליצנים | בן כספית",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372838",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T06:07:45.000Z"
+    },
+    {
+      "title": "האסון נמנע ברגע האחרון - אבל הכישלון כבר כאן | בן כספית",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372837",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T06:07:33.000Z"
+    },
+    {
+      "title": "אחרי שהבין שלא יוכל לעצור את נתניהו: ממדאני עם דרישה חדשה",
+      "link": "https://www.maariv.co.il/news/world/article-1372836",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:05:10.000Z"
+    },
+    {
+      "title": "הוכה בפטישים לעיני אשתו ההרה: \"אם לא תעביר את הכסף – נהרוג אותה ואת התינוק\"",
+      "link": "https://www.maariv.co.il/news/world/article-1372833",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:04:37.000Z"
+    },
+    {
+      "title": "הצתות, עימותים ומאות עצורים: צרפת סוגרת מאות בתי ספר",
+      "link": "https://www.maariv.co.il/news/world/article-1372832",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T06:02:47.000Z"
+    },
+    {
+      "title": "לא אוסלו ולא \"התרגיל המסריח\": זה הסיפור הכי מעניין בסדרה על פרס",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372830",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T05:40:08.000Z"
+    },
+    {
+      "title": "שמעון פרס היה \"הלוזר\" הנצחי - אבל הסדרה חושפת סיפור אחר לגמרי",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372829",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T05:39:53.000Z"
+    },
+    {
+      "title": "מימון מהעירייה, חסות מהממשלה: תגמול המדינה לאמנים ששרו בתהלוכת העריקים",
+      "link": "https://www.ynet.co.il/news/article/rybfgzd9ze",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T05:26:37.000Z"
+    },
+    {
+      "title": "\"זה קרה במשמרת שלנו\" - המשפט שמנקה את האחריות",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372821",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T05:08:43.000Z"
+    },
+    {
+      "title": "נתניהו מתבלבל בתאריך, השרים היו ב\"משמרת\": השיטה המרתיחה למחיקת 7 באוקטובר",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372820",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T05:08:34.000Z"
+    },
+    {
+      "title": "טלי מנס, 150 המחבלים ולוחמי 401: שלושה מקרים שהם הסיפור הגדול של המערכת הביטחונית",
+      "link": "https://www.maariv.co.il/news/opinions/article-1372819",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T05:06:34.000Z"
+    },
+    {
+      "title": "צה\"ל ושב\"כ חושפים: בכיר חמאס שחוסל השבוע פיקד על החזקת חטופים רבים בשבי",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372818",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T05:04:51.000Z"
+    },
+    {
+      "title": "גבר נפצע קשה בדקירה במהלך חנוכת בית בצפת; שני חשודים נעצרו",
+      "link": "https://www.maariv.co.il/breaking-news/article-1372816",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-02T04:57:15.000Z"
+    },
+    {
+      "title": "אחרי ניסיון החטיפה: עוד אירוע הזוי בטיסה שיצאה מדובאי",
+      "link": "https://www.maariv.co.il/news/viral/article-1372809",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T04:47:35.000Z"
+    },
+    {
+      "title": "אחרי העדויות החדשות: הרצוג ימליץ גם על טלי מנס לאות הגבורה",
+      "link": "https://www.maariv.co.il/news/politics/article-1372807",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T04:38:26.000Z"
+    },
+    {
+      "title": "מה מזכיר לי את צ'רצ'יל?",
+      "link": "https://www.ynet.co.il/news/article/hjynejn5fx",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T03:35:00.000Z"
+    },
+    {
+      "title": "שלוש שנים אחרי הטבח: הערכת המצב העדכנית של צה\"ל",
+      "link": "https://www.ynet.co.il/news/article/yokra14915604",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T03:26:57.000Z"
+    },
+    {
+      "title": "הפלסטינים מדוכאים. אבל חמאס אינו מגן עליהם | דן פרי",
+      "link": "https://www.maariv.co.il/news/opinions/article-1372765",
+      "source": "מעריב",
+      "pubDate": "2026-10-02T03:00:46.000Z"
+    },
+    {
+      "title": "\"הסמים הפכו אותי לאמא ומורה טובה יותר\": מומחים מזהירים מהתופעה החדשה",
+      "link": "https://www.ynet.co.il/news/article/h1rgghecze",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T03:00:00.000Z"
+    },
+    {
+      "title": "הישראליות שתפסו את המפלצת מיער בולון",
+      "link": "https://www.ynet.co.il/news/article/syoa11cvcfl",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T03:00:00.000Z"
+    },
+    {
+      "title": "קריאת השכמה לראשי המגזר העסקי",
+      "link": "https://www.ynet.co.il/news/article/hj9hhgyqfg",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T02:45:00.000Z"
+    },
+    {
+      "title": "ההצפות ביעדים הפופולריים - ואיפה צפוי גשם לפני סיום החג?",
+      "link": "https://www.ynet.co.il/news/article/skufx1n5zx",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T02:40:19.000Z"
+    },
+    {
+      "title": "כדאי להיות נחמד ל-AI",
+      "link": "https://www.ynet.co.il/news/article/rk11u00scqmg",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T02:38:00.000Z"
+    },
+    {
+      "title": "בחירות לא מנצחים באקסל",
+      "link": "https://www.ynet.co.il/news/article/b1pdwzyqmx",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T02:21:00.000Z"
+    },
+    {
+      "title": "הציונות תמיד נמצאת שם",
+      "link": "https://www.ynet.co.il/news/article/hks2bgf9fl",
+      "source": "Ynet",
+      "pubDate": "2026-10-02T02:16:00.000Z"
     },
     {
       "title": "סגירת המעגל המצמררת: הנינים נפלו בעזה ובלבנון - הבית על שמם יגן על יהודי הולנד",
@@ -31,12 +331,6 @@
       "link": "https://www.ynet.co.il/news/article/bklikmn9gg",
       "source": "Ynet",
       "pubDate": "2026-10-01T21:34:57.000Z"
-    },
-    {
-      "title": "בבל\"ד מבהירים: אבו שחאדה ימשיך לכהן כיו\"ר בל\"ד",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372789",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T21:31:56.000Z"
     },
     {
       "title": "סערה בבריטניה: חבר פרלמנט פקפק בניסיון הפיגוע בטיסת פליי דובאי",
@@ -53,12 +347,6 @@
     {
       "title": "מגורים מעלי צחנה, אלימות משתוללת וסירנות – כך הפכה העיירה סאוטה, לסיוט של אירופה",
       "link": "https://www.ynet.co.il/news/article/yokra14912069",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T21:00:00.000Z"
-    },
-    {
-      "title": "התרחיש שלא היה על השולחן: שאלת ההתרעה, וההבנה - יש להיות מוכנים להכול",
-      "link": "https://www.ynet.co.il/news/article/yokra14915604",
       "source": "Ynet",
       "pubDate": "2026-10-01T21:00:00.000Z"
     },
@@ -93,34 +381,10 @@
       "pubDate": "2026-10-01T21:00:00.000Z"
     },
     {
-      "title": "בל\"ד החליטה: סאמי אבו שחאדה לא יתמודד בבחירות הבאות",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372774",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T20:45:28.000Z"
-    },
-    {
       "title": "הסלמה באפריקה: אריתריאה מנתקת יחסים עם אתיופיה, זו אזהרת המסע",
       "link": "https://www.ynet.co.il/news/article/bygv4nhcfg",
       "source": "Ynet",
       "pubDate": "2026-10-01T19:58:29.000Z"
-    },
-    {
-      "title": "האם הוא באמת תכנן לרסק את המטוס? חקירת פליי דובאי נכנסת לשלב הקריטי",
-      "link": "https://www.maariv.co.il/news/military/article-1372748",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T19:25:42.000Z"
-    },
-    {
-      "title": "נער בן 14 נפל מגובה באזור ירושלים - מצבו קשה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372742",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T18:55:46.000Z"
-    },
-    {
-      "title": "אזרח איראני נעצר בחשד לניסיון לבצע את הפיגוע בבסיס בבריטניה",
-      "link": "https://www.maariv.co.il/news/world/article-1372741",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T18:55:43.000Z"
     },
     {
       "title": "ניסיון חטיפת נשק, יידוי אבנים ומטעני דמה: עונת המסיק בפתח, המתיחות ביו\"ש בשיא",
@@ -129,28 +393,10 @@
       "pubDate": "2026-10-01T18:45:42.000Z"
     },
     {
-      "title": "טייסי פליי דובאי מהתקרית במטוס עזבו את סעודיה לאבו דאבי תחת אבטחה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372737",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T18:35:41.000Z"
-    },
-    {
-      "title": "רוכב אופנוע נפצע קשה לאחר שפגע באופניים בכביש 2 סמוך למחלף סירה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372733",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T18:28:06.000Z"
-    },
-    {
       "title": "הטייס-מחבל הועבר לאמירויות, בכיר ישראלי שלל את דברי טראמפ: \"הוא כנראה פעל לבד\"",
       "link": "https://www.ynet.co.il/news/article/bjrab7ncfl",
       "source": "Ynet",
       "pubDate": "2026-10-01T18:25:54.000Z"
-    },
-    {
-      "title": "קושנר נאלץ לעצור: השליחים של ארדואן ונתניהו איבדו את העשתונות",
-      "link": "https://www.maariv.co.il/news/world/article-1372724",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T17:58:05.000Z"
     },
     {
       "title": "חייל תפס נער פלסטיני וצילם לאביו: \"הבן שלך מפורק, שווה לך לבוא\"; צה\"ל מתחקר",
@@ -159,52 +405,10 @@
       "pubDate": "2026-10-01T17:56:09.000Z"
     },
     {
-      "title": "גוטליב תקפה את רע\"מ — ואז השופט כבוב הזכיר לה את נתניהו",
-      "link": "https://www.maariv.co.il/news/politics/article-1372723",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T17:51:58.000Z"
-    },
-    {
-      "title": "ההצפות ביעדים הפופולריים - ואיפה צפוי גשם לפני סיום החג?",
-      "link": "https://www.ynet.co.il/news/article/skufx1n5zx",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T17:43:13.000Z"
-    },
-    {
-      "title": "משפחת קסאו: ביקשנו סיוע מנתניהו לפני שמונה חודשים - מאז לא התקבלה תשובה",
-      "link": "https://www.maariv.co.il/news/politics/article-1372721",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T17:26:23.000Z"
-    },
-    {
-      "title": "משטר חירום ברשת החשמל וסכנת הרעלה באחד המקומות הכי חשובים ליהודים בעולם",
-      "link": "https://www.maariv.co.il/news/world/article-1372719",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T17:15:19.000Z"
-    },
-    {
-      "title": "אחרי אזהרות, רמזים והכחשות: הפצצה של טראמפ על טיסת פליי דובאי",
-      "link": "https://www.maariv.co.il/news/world/article-1372715",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T17:12:41.000Z"
-    },
-    {
       "title": "נתניהו מודה שהייתה \"פרצה\", טראמפ: לפי מה ששמעתי - לטייס מעומאן קשר לאיראן",
       "link": "https://www.ynet.co.il/news/article/sywkgaj9gl",
       "source": "Ynet",
       "pubDate": "2026-10-01T17:07:09.000Z"
-    },
-    {
-      "title": "טיסת האיימים של פליי דובאי: טראמפ קושר בין הטייס העומאני לאיראן",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372714",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T17:04:27.000Z"
-    },
-    {
-      "title": "סערה סביב האירוע של נתניהו: לפיד עקץ, אוחנה השיב מיד",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372713",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T16:59:19.000Z"
     },
     {
       "title": "זיני התריע, נתניהו הודה ב\"פרצה\": מי היה אמור לפקח על פליי דובאי?",
@@ -213,214 +417,10 @@
       "pubDate": "2026-10-01T16:57:39.000Z"
     },
     {
-      "title": "לפיד קיבל הזמנה ב-13:42 ותקף: אוחנה לא נשאר חייב",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372711",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T16:57:29.000Z"
-    },
-    {
       "title": "צה\"ל מעמיק את השליטה בעזה: ​\"שולטים ב-63% מהשטח, כ-40 מוצבים הוקמו\"",
       "link": "https://www.ynet.co.il/news/article/b1ysjg2qzl",
       "source": "Ynet",
       "pubDate": "2026-10-01T16:53:34.000Z"
-    },
-    {
-      "title": "בכיר בחברה ממשלתית נחקר בלהב 433 בחשד לזיוף והפרת אמונים",
-      "link": "https://www.ynet.co.il/news/article/skvmpz2qzl",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T16:46:22.000Z"
-    },
-    {
-      "title": "\"פערים משמעותיים מהאמת\": בכיר בחברה ממשלתית חשוד בזיוף קורות החיים",
-      "link": "https://www.maariv.co.il/news/law/article-1372709",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T16:45:05.000Z"
-    },
-    {
-      "title": "\"נעשה גיהינום, אין דרך אחרת\": תיעודי הכאוס ב\"מרד השמאל הקיצוני\" בצרפת",
-      "link": "https://www.ynet.co.il/news/article/skql6jncfx",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T16:22:07.000Z"
-    },
-    {
-      "title": "בכיר בחברה ממשלתית נחקר בחשד להפרת אמונים, זיוף וקבלת דבר במרמה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372705",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T16:20:27.000Z"
-    },
-    {
-      "title": "צעיר בן 23 נפצע באורח בינוני באירוע אלימות בדרך שלמה בתל אביב",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372704",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T16:18:16.000Z"
-    },
-    {
-      "title": "בן 50 נפצע קשה - ככל הנראה מאירוע אלימות",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372703",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T16:17:33.000Z"
-    },
-    {
-      "title": "\"רבים בימין לא יקבלו את המסקנות\": אלי כהן מסביר מדוע לא קמה ועדת חקירה  | האזינו",
-      "link": "https://www.maariv.co.il/news/elections-2026/article-1372693",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T16:08:53.000Z"
-    },
-    {
-      "title": "גבר בן 49 נפצע באורח בינוני באירוע אלימות ברחוב פרישמן בתל אביב",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372694",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T15:58:13.000Z"
-    },
-    {
-      "title": "משרד החוץ הסורי מכחיש שניהל קשרים עם חיזבאללה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372691",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T15:51:06.000Z"
-    },
-    {
-      "title": "חפץ כבד נפל על ילדה בת 5 באזור ירושלים - מצבה בינוני",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372690",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T15:44:02.000Z"
-    },
-    {
-      "title": "אקזיט מהחלומות: נביוס רוכשת את Inferize הישראלית פחות משנה לאחר שהוקמה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372689",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T15:42:59.000Z"
-    },
-    {
-      "title": "באיראן עוקבים בדאגה: צבא ארה\"ב במהלך חימוש גרנדיוזי במזרח התיכון",
-      "link": "https://www.maariv.co.il/news/politics/article-1372688",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T15:41:43.000Z"
-    },
-    {
-      "title": "52 מדינות באזהרה חריגה: ה-AI מאיץ את הפצת האנטישמיות",
-      "link": "https://www.maariv.co.il/news/world/article-1372684",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T15:41:31.000Z"
-    },
-    {
-      "title": "לפיד חשד בתרגיל, אוחנה שלף תשובה: \"צר לי שאתה חושב ככה\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1372686",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T15:40:00.000Z"
-    },
-    {
-      "title": "אירוע חריג בכפר סבא: ניקוב צמיגים והצתת רכב דיפלומטי | צפו בתיעוד",
-      "link": "https://www.maariv.co.il/news/law/article-1372679",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T15:32:26.000Z"
-    },
-    {
-      "title": "הפרופסורים הישראלים זכו בפרס היוקרתי במתמטיקה: \"\"על עבודתם המכוננת בתורת ההצגות\"",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372677",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T15:08:38.000Z"
-    },
-    {
-      "title": "צה\"ל חושף: 170 מה\"עיתונאים\" שנהרגו בעזה - מחבלים | השמות והתפקידים",
-      "link": "https://www.ynet.co.il/news/article/syazkk2qzl",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T15:01:20.000Z"
-    },
-    {
-      "title": "לקראת חידוש התקיפות נגד איראן? ארה\"ב שולחת לאזור נושאת מטוסים ויחידת מארינס",
-      "link": "https://www.ynet.co.il/news/article/bygseg25mx",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T14:59:47.000Z"
-    },
-    {
-      "title": "כי הוא יכול: המח\"ט ניצל את סמכותו - והלוחמים בעזה ובלבנון זועמים: \"צה\"ל 'רימה' אותם\"",
-      "link": "https://www.maariv.co.il/news/military/article-1372675",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T14:49:53.000Z"
-    },
-    {
-      "title": "עופר וינטר חושף מה אמר לו הרצי הלוי ימים לפני 7 באוקטובר",
-      "link": "https://www.maariv.co.il/news/politics/article-1372673",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T14:39:54.000Z"
-    },
-    {
-      "title": "\"הטייס הדוקר אמר 'Kill me', הוא העדיף למות\": תיעוד חדש שלו כפות - ועדויות הגיבורים",
-      "link": "https://www.ynet.co.il/news/article/byy0fy25fg",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T14:35:17.000Z"
-    },
-    {
-      "title": "שגריר הודו באיחוד האמירויות ביקר את הטייס: \"מצבו הבריאותי של קפטן מצ'הר טוב\"",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372670",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T14:34:05.000Z"
-    },
-    {
-      "title": "המרדף לא נעצר: חוסל מחבל שחטף שישה מקיבוץ בארי ב-7.10",
-      "link": "https://www.maariv.co.il/news/military/article-1372667",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T14:33:02.000Z"
-    },
-    {
-      "title": "בן 21 נפצע באורח בינוני ברחוב חולדה הנביאה בבני ברק",
-      "link": "https://www.maariv.co.il/breaking-news/article-1372668",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-01T14:21:49.000Z"
-    },
-    {
-      "title": "3 שבועות לפני 7/10: ראש השב\"כ רונן בר הזהיר מ\"הסופה המושלמת\"",
-      "link": "https://www.ynet.co.il/news/article/r1ay90jcze",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T14:20:15.000Z"
-    },
-    {
-      "title": "שבעה דגלים, זיכרון אחד: מיזם עוטף ישראל מבקש לחבר בין הנצחה, מורשת ואחדות",
-      "link": "https://www.maariv.co.il/news/israel/article-1372661",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T14:06:05.000Z"
-    },
-    {
-      "title": "מפקד אוגדת עזה חושף את העבודה בשטח: \"אנחנו קודחים את כל הרצועה\"",
-      "link": "https://www.maariv.co.il/news/military/article-1372662",
-      "source": "מעריב",
-      "pubDate": "2026-10-01T14:05:39.000Z"
-    },
-    {
-      "title": "\"זו תהיה מלחמה קצרה מאוד\": האיום הגרעיני הישיר של פוטין - ותגובת נאט\"ו",
-      "link": "https://www.ynet.co.il/news/article/syxngps5fl",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T13:48:15.000Z"
-    },
-    {
-      "title": "אחרי שנעלם מהרדאר: ברדוגו מצטרף לקמפיין של נתניהו | אלו יתר חברי הכוורת",
-      "link": "https://www.ynet.co.il/news/elections2026/article/rj77xriqgx",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T13:29:42.000Z"
-    },
-    {
-      "title": "כך פספסנו את הזדמנות ההסברה בטיסת פליי דובאי",
-      "link": "https://www.ynet.co.il/news/article/by9motscgx",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T12:06:34.000Z"
-    },
-    {
-      "title": "כשמגיעים למדינות ערב החוקים חלים על כולם",
-      "link": "https://www.ynet.co.il/news/article/h1ckqpiqzl",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T11:58:44.000Z"
-    },
-    {
-      "title": "כשהבית כבר לא מרגיש בטוח: 5 שנים עם יהודי קנדה",
-      "link": "https://www.ynet.co.il/news/article/r1sgtps9fe",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T11:53:55.000Z"
-    },
-    {
-      "title": "להרחיב ולחזק את הסכמי אברהם ולהכניס את סעודיה",
-      "link": "https://www.ynet.co.il/news/article/hy9wdps9fl",
-      "source": "Ynet",
-      "pubDate": "2026-10-01T11:50:06.000Z"
     },
     {
       "title": "אחרי התחממות קלה: ירידה בטמפרטורות וגשם מקומי במהלך השבוע | התחזית",
