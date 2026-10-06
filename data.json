@@ -1,9 +1,165 @@
 {
-  "generatedAt": "2026-10-06T15:52:30.695Z",
+  "generatedAt": "2026-10-06T20:38:01.080Z",
   "count": 150,
   "items": [
     {
-      "title": "\"הוסתרנו כיהודים במשך 3 שנים\": יהודי אירלנד סבלו עוד לפני 7 באוקטובר",
+      "title": "פנינו לרשות האוכלוסין, ואז למשרד התחבורה, ואז לרשות, ואז למשרד, ושוב ושוב. מישהו לקח אחריות?",
+      "link": "https://www.ynet.co.il/news/article/rkamsnzsfl",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T20:05:29.000Z"
+    },
+    {
+      "title": "הלוחמים חזרו, השגרה לא",
+      "link": "https://www.ynet.co.il/news/article/s1phrazoge",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T19:54:41.000Z"
+    },
+    {
+      "title": "שעות לפני שהחרדים \"ניצחו\" את המשטרה: עריק קיבל 12 אלף שקל",
+      "link": "https://www.ynet.co.il/news/article/byidwpfimg",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T19:45:30.000Z"
+    },
+    {
+      "title": "תמונות הלוויין חשפו: הפעילות המחודשת באתר הגרעין שישראל תקפה באיראן",
+      "link": "https://www.ynet.co.il/news/article/rjwuf6gjgl",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T19:45:10.000Z"
+    },
+    {
+      "title": "בגרמניה חושפים: זו המדינה שעבורה ריגל ראש סוכנות הביון שנעצר על בגידה",
+      "link": "https://www.ynet.co.il/news/article/rjcjwtmigl",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T19:43:46.000Z"
+    },
+    {
+      "title": "הפסד משפטי לרמי לוי - שייתבע ייצוגית בפרשת הקופאיות | בעקבות תחקיר ynet",
+      "link": "https://www.ynet.co.il/news/article/skj3oazjgl",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T19:38:16.000Z"
+    },
+    {
+      "title": "הדרג הבכיר מניח שחמאס, חיזבאללה או איראן ינסו לתקוף - והתכונן מראש",
+      "link": "https://www.maariv.co.il/news/military/article-1374413",
+      "source": "מעריב",
+      "pubDate": "2026-10-06T19:08:36.000Z"
+    },
+    {
+      "title": "פלישה ל-28 יישובים ו-11 בסיסים, 1,203 חללים, 251 חטופים | מפת 7 באוקטובר",
+      "link": "https://www.ynet.co.il/news/article/pb1nyqls4",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T18:34:46.000Z"
+    },
+    {
+      "title": "ליד באר שבע ודימונה: האזהרה החריגה של ראש שב\"כ מגדודי טרור",
+      "link": "https://www.ynet.co.il/news/article/sknl00ngoml",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T18:28:56.000Z"
+    },
+    {
+      "title": "אחרי חשיפת הפרצה הביטחונית בנתב\"ג - רשות האוכלוסין מבהירה: \"מידע הודלף באופן מכוון\"",
+      "link": "https://www.maariv.co.il/breaking-news/article-1374400",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-06T18:06:05.000Z"
+    },
+    {
+      "title": "\"קריאת החירום\" של איזנקוט: \"על כל אזרח להתעורר לפני שיהיה מאוחר\"",
+      "link": "https://www.ynet.co.il/news/elections2026/article/by0ujsgjmx",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T17:53:49.000Z"
+    },
+    {
+      "title": "קב״ט הנובה תובע את ראש שב\"כ לשעבר רונן בר: \"לא נקף אצבע להגנתנו\"",
+      "link": "https://www.ynet.co.il/news/article/hyzpvofszg",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T17:51:47.000Z"
+    },
+    {
+      "title": "רוטמן: ״חרטה? שלא העברנו רפורמה משפטית עשור קודם\" | הספינר של ynet",
+      "link": "https://www.ynet.co.il/news/elections2026/article/byl3nwfogl",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T17:26:32.000Z"
+    },
+    {
+      "title": "רבע מיליון ב\"יום הזעם\" בצרפת, טראמפ: \"זאת ההגירה, האיסלאם משתלט עליכם!\"",
+      "link": "https://www.ynet.co.il/news/article/hko11zsmjfe",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T17:14:40.000Z"
+    },
+    {
+      "title": "לאחר התביעה במיליון שקל: נטלי דדון ובעל בית הקפה סיימו בהסכם",
+      "link": "https://www.maariv.co.il/breaking-news/article-1374383",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-10-06T17:06:01.000Z"
+    },
+    {
+      "title": "ההכרעה: נתניהו יסיר מחשבונותיו האישיים את סרטון האזהרה שצילם בחיל האוויר",
+      "link": "https://www.ynet.co.il/news/elections2026/article/bk4jfogszx",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T17:01:19.000Z"
+    },
+    {
+      "title": "כל מה שצפוי ביום השנה השלישי לטבח 7/10 - וציר הזמן של המלחמה",
+      "link": "https://www.ynet.co.il/news/article/hyittlzifx",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T16:55:32.000Z"
+    },
+    {
+      "title": "לא בחשבון הפרטי: ועדת הבחירות המרכזית שמה קו אדום לנתניהו",
+      "link": "https://www.maariv.co.il/news/politics/article-1374379",
+      "source": "מעריב",
+      "pubDate": "2026-10-06T16:53:55.000Z"
+    },
+    {
+      "title": "דונלד טראמפ: \"זה קשור לאסלאם שרוצה להשתלט על מדינה שהייתה פעם גדולה\"",
+      "link": "https://www.maariv.co.il/news/world/article-1374378",
+      "source": "מעריב",
+      "pubDate": "2026-10-06T16:50:13.000Z"
+    },
+    {
+      "title": "\"לא צריך להילחם במדינה כדי להשתקם\": התוכנית של ישראל ביתנו לפצועי צה\"ל",
+      "link": "https://www.maariv.co.il/news/politics/article-1374375",
+      "source": "מעריב",
+      "pubDate": "2026-10-06T16:40:06.000Z"
+    },
+    {
+      "title": "\"שרפו ולא השאירו כלום\": עוד לילה של פרעות ביו\"ש - ובצה\"ל מכינים כלים להתמודדות",
+      "link": "https://www.ynet.co.il/news/article/rkh00crgozx",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T16:36:48.000Z"
+    },
+    {
+      "title": "לא עוד מהומה: מה שקרה במודיעין זו קריסת המשילות בישראל בזמן אמת | אבי אשכנזי",
+      "link": "https://www.maariv.co.il/news/military/article-1374374",
+      "source": "מעריב",
+      "pubDate": "2026-10-06T16:34:04.000Z"
+    },
+    {
+      "title": "\"אם הרוסים מסתירים משהו\": הפרופסור שמנתח את החשש מהדבר הריאתי",
+      "link": "https://www.maariv.co.il/news/health/article-1374367",
+      "source": "מעריב",
+      "pubDate": "2026-10-06T16:18:22.000Z"
+    },
+    {
+      "title": "המהומות בצרפת יוצאות משליטה: \"יש מי שמחפש כל הזדמנות לצאת לרחוב\"",
+      "link": "https://www.maariv.co.il/news/world/article-1374371",
+      "source": "מעריב",
+      "pubDate": "2026-10-06T16:17:04.000Z"
+    },
+    {
+      "title": "הטראומה של נוסעי הטיסה, הדרישה לעזרה מהמדינה - והתגובה: \"תפנו לפליי דובאי\"",
+      "link": "https://www.ynet.co.il/news/article/rj0x0dzsfl",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T16:06:12.000Z"
+    },
+    {
+      "title": "הסלמה בים השחור: כטב\"ם הטביע ספינה מול בולגריה, 10 נעדרים; קייב מכסה גשרים ברשתות",
+      "link": "https://www.ynet.co.il/news/article/b13ldymome",
+      "source": "Ynet",
+      "pubDate": "2026-10-06T16:02:52.000Z"
+    },
+    {
+      "title": "אירופה 1939, גרסת דבלין: היהודים באירלנד נאלצים להסתתר - ומגלים מפלצת שנאה",
       "link": "https://www.maariv.co.il/news/world/article-1374362",
       "source": "מעריב",
       "pubDate": "2026-10-06T15:28:59.000Z"
@@ -117,7 +273,7 @@
       "pubDate": "2026-10-06T14:02:52.000Z"
     },
     {
-      "title": "ארה\"ב מנמנמת - ואירופה מנצלת את הוואקום כדי להדק את החנק על ישראל",
+      "title": "אירופה ממלאת את הוואקום של ארה\"ב - ומחריפה את המשבר מול ישראל",
       "link": "https://www.maariv.co.il/news/world/article-1374328",
       "source": "מעריב",
       "pubDate": "2026-10-06T14:00:09.000Z"
@@ -207,18 +363,6 @@
       "pubDate": "2026-10-06T12:58:53.000Z"
     },
     {
-      "title": "כפי שפורסם ב\"מעריב\": המפלגה הערבית מצטרפת לאסטרטגיה להפלת נתניהו",
-      "link": "https://www.maariv.co.il/news/politics/article-1374300",
-      "source": "מעריב",
-      "pubDate": "2026-10-06T12:50:49.000Z"
-    },
-    {
-      "title": "הגולגולת נדחפה לתוך המוח: הפציעה המחרידה של קברניט פליי דובאי נחשפת",
-      "link": "https://www.maariv.co.il/news/world/article-1374298",
-      "source": "מעריב",
-      "pubDate": "2026-10-06T12:42:44.000Z"
-    },
-    {
       "title": "בן 21 במצב בינוני לאחר שהתנגש עם רכבו במעקה במחלף השבעה ביציאה לכביש 1",
       "link": "https://www.maariv.co.il/breaking-news/article-1374295",
       "source": "מעריב מבזקים",
@@ -231,46 +375,10 @@
       "pubDate": "2026-10-06T12:32:13.000Z"
     },
     {
-      "title": "ישראל במצב חירום נפשי | אורן הלמן",
-      "link": "https://www.maariv.co.il/news/opinions/article-1374289",
-      "source": "מעריב",
-      "pubDate": "2026-10-06T12:27:42.000Z"
-    },
-    {
-      "title": "\"אומרים לי: 'חמיד, אי אפשר לחיות ככה. פאטמה מתה, אתה צריך לבנות חיים חדשים, להתחתן'. אני אומר להם: קל לדבר. אתם יכולים לדבר עד מחר\"",
-      "link": "https://www.ynet.co.il/news/article/sj11n7cikmx",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T12:24:11.000Z"
-    },
-    {
       "title": "גדעון סער נגד חברת הפרלמנט הצרפתייה: \"מעשה פוגעני שכזה יטופל בחומרה רבה\"",
       "link": "https://www.maariv.co.il/breaking-news/article-1374285",
       "source": "מעריב מבזקים",
       "pubDate": "2026-10-06T12:16:46.000Z"
-    },
-    {
-      "title": "חברת הפרלמנט האירופי הפילה דגל ישראל בתערוכה לציון 7/10: \"שנאה אנטישמית\"",
-      "link": "https://www.ynet.co.il/news/article/rjzvx8mjgx",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T12:09:21.000Z"
-    },
-    {
-      "title": "אייל נגר סחט באיומים חברת משלוחים – ואז גילה מי באמת עמד מאחוריה",
-      "link": "https://www.maariv.co.il/news/law/article-1374281",
-      "source": "מעריב",
-      "pubDate": "2026-10-06T12:09:14.000Z"
-    },
-    {
-      "title": "בישראל נערכים רשמית לתרחיש: היפוך קנים של אנשי הרשות הפלסטינית",
-      "link": "https://www.maariv.co.il/news/politics/article-1374269",
-      "source": "מעריב",
-      "pubDate": "2026-10-06T12:03:43.000Z"
-    },
-    {
-      "title": "יותר חתולים, יותר אושר? מחקר חדש מצא קשר מפתיע",
-      "link": "https://www.maariv.co.il/news/viral/article-1374267",
-      "source": "מעריב",
-      "pubDate": "2026-10-06T11:43:29.000Z"
     },
     {
       "title": "בני גנץ: \"אם תראו פתק של כחול-לבן - תדעו שאני עובר\"",
@@ -291,40 +399,10 @@
       "pubDate": "2026-10-06T11:34:27.000Z"
     },
     {
-      "title": "הישג למשפחות 7 באוקטובר: המיליארדר הפלסטיני-אמריקאי יידרש להתמודד עם הטענות על סיוע לחמאס",
-      "link": "https://www.maariv.co.il/news/world/article-1374266",
-      "source": "מעריב",
-      "pubDate": "2026-10-06T11:26:44.000Z"
-    },
-    {
-      "title": "\"השוטרים לקחו אותי להרים באזיקים - פוצצו במכות וזרקו\"",
-      "link": "https://www.ynet.co.il/news/article/hksng4mige",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T11:23:16.000Z"
-    },
-    {
-      "title": "עופר ינאי יורה לכל הכיוונים: \"שיחק לנו המזל וצריך לומר תודה\"",
-      "link": "https://www.maariv.co.il/breaking-news/article-1374265",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-06T11:22:30.000Z"
-    },
-    {
       "title": "אחרי פליי דובאי: המחדל שנמנע בדקה ה-90 בטיסה לישראל - \"מאוד מטריד\"",
       "link": "https://www.maariv.co.il/breaking-news/article-1374257",
       "source": "מעריב מבזקים",
       "pubDate": "2026-10-06T11:11:46.000Z"
-    },
-    {
-      "title": "הלך לעולמו יקי חץ, מגיבורי קרב גבעת התחמושת וחתן פרס ביטחון ישראל",
-      "link": "https://www.ynet.co.il/news/article/bygk00hzsgg",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T11:06:32.000Z"
-    },
-    {
-      "title": "נתניהו התעלם מאחריותו לטבח בישיבה לציון 3 שנים: \"חמאס ינסה לאתגר לקראת הבחירות\"",
-      "link": "https://www.ynet.co.il/news/elections2026/article/bjhzxlgjge",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T11:05:27.000Z"
     },
     {
       "title": "אהוד יערי הופתע ממינוי אביחי אדרעי בחדשות 12 - וחשף בטעות דרמת ענק מאחורי הקלעים",
@@ -343,84 +421,6 @@
       "link": "https://www.maariv.co.il/breaking-news/article-1374250",
       "source": "מעריב מבזקים",
       "pubDate": "2026-10-06T11:01:38.000Z"
-    },
-    {
-      "title": "הדיל שסגר את הדלת: הליכוד וסמוטריץ' חתמו, בן גביר נשאר עם הברירה הגרועה מכל",
-      "link": "https://www.maariv.co.il/breaking-news/article-1374249",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-10-06T11:01:21.000Z"
-    },
-    {
-      "title": "\"אני מוכן ללכת למכונת אמת\": איתן כבל מעיד בתיק 2000",
-      "link": "https://www.ynet.co.il/news/article/skdqj1gimg",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T10:37:19.000Z"
-    },
-    {
-      "title": "מ-06:29 ועד הטקס המרכזי: כך יצוין יום השנה השלישי לטבח 7/10",
-      "link": "https://www.ynet.co.il/news/article/syngpqzofx",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T10:04:14.000Z"
-    },
-    {
-      "title": "איפה הייתם ב-7/10/23? השרים נחשפים",
-      "link": "https://www.ynet.co.il/news/article/hjtyz4bjzx",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T09:57:16.000Z"
-    },
-    {
-      "title": "\"בעלי לקח אקדח, חשבנו על 7/10\" | התכתבויות השכנים ממודיעין, והעדויות",
-      "link": "https://www.ynet.co.il/news/article/skrjrmgife",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T09:52:18.000Z"
-    },
-    {
-      "title": "אסור לעקוב אחר המצביעים: יהדות התורה מחפשת איך לעקוף את פסיקת בג\"ץ",
-      "link": "https://www.ynet.co.il/news/elections2026/article/s1e6dqgiml",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T09:49:56.000Z"
-    },
-    {
-      "title": "האנרכיה היא השגרה הישראלית החדשה",
-      "link": "https://www.ynet.co.il/news/article/bkotzsmome",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T09:48:57.000Z"
-    },
-    {
-      "title": "צה\"ל סותר את עצמו ומודה באיחור: לא עצרנו עריקים באופן יזום בכוונה",
-      "link": "https://www.ynet.co.il/news/article/rkdzr4zjml",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T08:52:32.000Z"
-    },
-    {
-      "title": "דרמה בגרמניה: ראש שירותי הביון לשעבר נעצר בחשד לריגול ובגידה",
-      "link": "https://www.ynet.co.il/news/article/h1xqqezoze",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T08:44:04.000Z"
-    },
-    {
-      "title": "ההשקעה בצפון ובעוטף - והזיהוי הפוליטי של יו\"ר קק\"ל: \"חובה להחליף את הממשלה\"",
-      "link": "https://www.ynet.co.il/news/article/r1yg47fjzl",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T08:35:25.000Z"
-    },
-    {
-      "title": "30 אלף פצועים לכוחות הביטחון, 8% מהם נשים | נתוני הנפגעים מאז טבח 7/10",
-      "link": "https://www.ynet.co.il/news/article/hyqouqgsgx",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T08:34:59.000Z"
-    },
-    {
-      "title": "\"איזה בום! יש ילד שם?\": הבן נפגע בפיצוץ הרכב יומיים לפני בר המצווה | תיעוד חדש",
-      "link": "https://www.ynet.co.il/news/article/bjl11nqzsmx",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T08:33:22.000Z"
-    },
-    {
-      "title": "בן גביר יחתום עם וינטר, או יישאר לבד: הליכוד והציונות הדתית חתמו על הסכם עודפים",
-      "link": "https://www.ynet.co.il/news/elections2026/article/skpacqgjfe",
-      "source": "Ynet",
-      "pubDate": "2026-10-06T08:26:33.000Z"
     },
     {
       "title": "אחרי התחממות קלה: ירידה בטמפרטורות וגשם מקומי במהלך השבוע | התחזית",
