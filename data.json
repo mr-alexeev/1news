@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-11-08T23:17:35.641Z",
+  "generatedAt": "2026-11-09T02:42:27.538Z",
   "count": 130,
   "items": [
+    {
+      "title": "טראמפ ייפגש עם ראש ממשלת קטאר",
+      "link": "https://www.walla.co.il/news/breaking-news/383960622",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-09T01:32:35.000Z"
+    },
+    {
+      "title": "טראמפ ב”60 דקות” על תבוסת הרפובליקנים: “חוסר אהדה גדול כלפי ישראל”",
+      "link": "https://www.walla.co.il/news/breaking-news/383960621",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-09T00:53:54.000Z"
+    },
+    {
+      "title": "\"דומים מאוד מבחינת מדיניות\": טראמפ משווה בין איזנקוט לנתניהו, רוביו מזהיר את איראן",
+      "link": "https://www.maariv.co.il/news/politics/article-1386422",
+      "source": "מעריב",
+      "pubDate": "2026-11-09T00:27:24.000Z"
+    },
+    {
+      "title": "טראמפ מגיב לראשונה להטלת המנדט על איזנקוט: \"אמר עליי דברים נחמדים מאוד\"",
+      "link": "https://www.maariv.co.il/breaking-news/article-1386421",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-09T00:08:07.000Z"
+    },
+    {
+      "title": "ביידן על המאבק בסרטן: “יש ימים טובים יותר ופחות, לפעמים המחלה מאטה אותי”",
+      "link": "https://www.walla.co.il/news/breaking-news/383960620",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-09T00:06:02.000Z"
+    },
+    {
+      "title": "טראמפ האשים את ישראל בהפסד בבחירות האמצע - וטען שאיזנקוט ונתניהו \"דומים\"",
+      "link": "https://www.ynet.co.il/news/article/hjom7kc6fe",
+      "source": "Ynet",
+      "pubDate": "2026-11-09T00:05:25.000Z"
+    },
+    {
+      "title": "טראמפ לראשונה מתייחס לאיזנקוט: \"דומה לנתניהו מבחינת מדיניות\"",
+      "link": "https://www.walla.co.il/news/breaking-news/383960618",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-08T23:35:25.000Z"
+    },
     {
       "title": "הפגנת ענק נגד ישראל באמסטרדם: \"להטיל עוד סנקציות\"",
       "link": "https://www.ynet.co.il/news/article/r1hbml06zg",
@@ -55,6 +97,18 @@
       "link": "https://www.ynet.co.il/news/article/yokra14952232",
       "source": "Ynet",
       "pubDate": "2026-11-08T22:02:00.000Z"
+    },
+    {
+      "title": "חשיפה: הסיוע הביטחוני מארה\"ב לא יסתיים \"עד סוף השנה\" - אלא ייחתך בחצי",
+      "link": "https://www.ynet.co.il/news/article/yokra14951614",
+      "source": "Ynet",
+      "pubDate": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "title": "המצלמות לא יכלו לעצור את הזוועות במעון באריאל: הדרך לתיקון קשה, איטית ויקרה",
+      "link": "https://www.ynet.co.il/news/article/yokra14952254",
+      "source": "Ynet",
+      "pubDate": "2026-11-08T22:00:00.000Z"
     },
     {
       "title": "מתקפת רחפנים על שדה גז בעיראק: הייצור הופסק, אספקת החשמל נפגעה",
@@ -399,12 +453,6 @@
       "pubDate": "2026-11-08T16:17:03.000Z"
     },
     {
-      "title": "טראמפ הודיע כי יתראיין הערב לתוכנית \"60 דקות\"",
-      "link": "https://www.walla.co.il/news/breaking-news/383960573",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-08T16:11:34.000Z"
-    },
-    {
       "title": "המצוד הסתיים בגבול ירדן: נעצר החשוד המרכזי ברצח אחמד שקרא",
       "link": "https://www.maariv.co.il/news/law/article-1386334",
       "source": "מעריב",
@@ -415,12 +463,6 @@
       "link": "https://www.maariv.co.il/news/opinions/article-1386332",
       "source": "מעריב",
       "pubDate": "2026-11-08T16:06:51.000Z"
-    },
-    {
-      "title": "אוגדה 98 השלימה את משימתה ביהודה ושומרון: יותר מ-140 חשודים נעצרו",
-      "link": "https://www.walla.co.il/news/breaking-news/383960572",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-08T16:01:06.000Z"
     },
     {
       "title": "המאבק בבית הלבן: הגסת' שואף למלחמה באיראן, ואנס מתנגד - וטראמפ משנה את דעתו",
@@ -451,18 +493,6 @@
       "link": "https://www.ynet.co.il/news/article/skmo9xc6mg",
       "source": "Ynet",
       "pubDate": "2026-11-08T15:34:52.000Z"
-    },
-    {
-      "title": "שב\"ח ניסה לעבור במחסום באמצעות זהותו של עבריין מין מפוקח",
-      "link": "https://www.walla.co.il/news/breaking-news/383960569",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-08T15:31:29.000Z"
-    },
-    {
-      "title": "היועמ\"שית: אין תשתית לטענה שהייתה השפעה על תוצאות הבחירות",
-      "link": "https://www.walla.co.il/news/breaking-news/383960567",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-08T15:25:07.000Z"
     },
     {
       "title": "תוכנית למניעת הצפות ללא תקציב: \"זו בדיחה, יש כאן בלגן רציני\"",
@@ -531,12 +561,6 @@
       "pubDate": "2026-11-08T14:38:15.000Z"
     },
     {
-      "title": "עיריית תל אביב הודיעה רשמית: קנס של עד 1000 שקל לנהגים שעוברים על החוק הזה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1386299",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-08T14:33:42.000Z"
-    },
-    {
       "title": "יחכה להחלפת יו\"ר הכנסת: איזנקוט לא מתכנן להשביע ממשלה השבוע",
       "link": "https://www.ynet.co.il/news/article/hjjvn11rpfx",
       "source": "Ynet",
@@ -553,12 +577,6 @@
       "link": "https://www.ynet.co.il/news/article/hk5b0lrpmx",
       "source": "Ynet",
       "pubDate": "2026-11-08T14:08:53.000Z"
-    },
-    {
-      "title": "\"פרויקט יהודי\": המתקפה של גורמים פרו-רוסיים בארמניה נגד מסדרון טראמפ",
-      "link": "https://www.maariv.co.il/news/world/article-1386273",
-      "source": "מעריב",
-      "pubDate": "2026-11-08T13:30:53.000Z"
     },
     {
       "title": "העיר על נהיגה פרועה בתחנת דלק - ונדרס באורח קשה | צפו תיעוד",
@@ -607,24 +625,6 @@
       "link": "https://www.ynet.co.il/news/article/hk2r776azg",
       "source": "Ynet",
       "pubDate": "2026-11-08T12:00:00.000Z"
-    },
-    {
-      "title": "כלום לא עצוב, הכל כרגיל",
-      "link": "https://www.ynet.co.il/news/article/ryo3vx6azl",
-      "source": "Ynet",
-      "pubDate": "2026-11-08T11:55:00.000Z"
-    },
-    {
-      "title": "לא למלחמה בחרדים, כן לביטחון ישראל",
-      "link": "https://www.ynet.co.il/news/article/skdd8q6pme",
-      "source": "Ynet",
-      "pubDate": "2026-11-08T11:50:00.000Z"
-    },
-    {
-      "title": "פרצופים עצובים, עיני X ו\"911\": ציורים על קיר בית הובילו את הדוור ל-3 גופות",
-      "link": "https://www.ynet.co.il/news/article/syzjf0t6gg",
-      "source": "Ynet",
-      "pubDate": "2026-11-08T11:16:18.000Z"
     },
     {
       "title": "אחרי הגשמים הכבדים: בכמה עלה מפלס הכנרת?",
