@@ -1,84 +1,672 @@
 {
-  "generatedAt": "2026-11-19T07:51:26.619Z",
+  "generatedAt": "2026-11-19T16:54:41.727Z",
   "count": 130,
   "items": [
     {
-      "title": "עכשיו זה רשמי: הרבה יותר יקר לטוס לאמסטרדם",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390095",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T07:49:58.000Z"
+      "title": "רימונים ופינוי אלים בהפגנת החרדים, כביש 4 חסום כבר שלוש שעות | ישיר",
+      "link": "https://www.ynet.co.il/news/article/syozv00ncge",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T16:49:18.000Z"
     },
     {
-      "title": "עץ קרס בלב שכונת מגורים בתל אביב, אין נפגעים",
+      "title": "צלחת מעופפת מעל הגולן? לא, זה רק ענן",
+      "link": "https://www.walla.co.il/news/israel/383962252",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T16:34:42.000Z"
+    },
+    {
+      "title": "מפת הפקקים המלאה: הנהגים בישראל עומדים במקום",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390327",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T16:33:14.000Z"
+    },
+    {
+      "title": "הפגנות חרדים גם בבית שמש: רימוני הלם הושלכו לעברם ע\"י המשטרה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390326",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T16:29:19.000Z"
+    },
+    {
+      "title": "אירוע אלימות בסכנין: צעיר בן 23 במצב קשה עם פציעה חודרת",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390324",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T16:17:52.000Z"
+    },
+    {
+      "title": "הרעיון החדש: נתניהו יכהן שנתיים כרה\"מ - ויעבור למשכן הנשיא",
+      "link": "https://www.ynet.co.il/news/article/sjtolt2azg",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T16:15:58.000Z"
+    },
+    {
+      "title": "האיום הכימי והביולוגי לא מחייב בינתיים תקיפה באיראן",
+      "link": "https://www.ynet.co.il/news/article/byhi6p2rgl",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T16:09:55.000Z"
+    },
+    {
+      "title": "משרד הבריאות מזהיר: חובת הרתחת מים ביישוב שדמה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390321",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T16:09:44.000Z"
+    },
+    {
+      "title": "משרד החוץ: מביעים את צערנו על מותו של האזרח הישראלי בנפאל ומשתתפים בצערה של המשפחה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390320",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T16:09:15.000Z"
+    },
+    {
+      "title": "אסון בנפאל: צעיר ישראלי התמוטט ומת במהלך טרק",
+      "link": "https://www.walla.co.il/news/breaking-news/383962251",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T16:08:06.000Z"
+    },
+    {
+      "title": "החייל נמצא ללא רוח חיים בבסיס בצפון הארץ - אך אימו בטוחה כי לא התאבד",
+      "link": "https://www.maariv.co.il/news/military/article-1390312",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T16:02:07.000Z"
+    },
+    {
+      "title": "ת\"א: רוכב אופנוע בן 21 נפגע בינוני בתאונה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390314",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T15:59:53.000Z"
+    },
+    {
+      "title": "צעיר ישראלי התמוטט ומת במקלחת בטרק האנאפורנה בנפאל",
+      "link": "https://www.ynet.co.il/news/article/b1ul9qhamx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T15:55:17.000Z"
+    },
+    {
+      "title": "חפר בתל אשקלון במשך שנים ואסף עתיקות בלי רישיון - וקיבל מאסר על תנאי",
+      "link": "https://www.maariv.co.il/news/law/article-1390311",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T15:53:20.000Z"
+    },
+    {
+      "title": "המגעים לממשלת אחדות: גדי איזנקוט מוכן לשבת עם נתניהו בתנאי אחד",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390310",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T15:49:06.000Z"
+    },
+    {
+      "title": "מפקד ימ\"ר ש\"י לשעבר מונה למנכ\"ל העירייה - כעת מגיעה התביעה",
+      "link": "https://www.maariv.co.il/news/law/article-1390308",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T15:38:04.000Z"
+    },
+    {
+      "title": "משרד הבריאות בהודעה לציבור: זה המקום שבו שהתה הכלבה הנגועה בכלבת",
+      "link": "https://www.walla.co.il/news/breaking-news/383962249",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T15:37:44.000Z"
+    },
+    {
+      "title": "גדי איזנקוט השיב להצעה של הליכוד: לא תהיה רוטציה עם נתניהו - יש לנו ממשלה",
+      "link": "https://www.maariv.co.il/news/politics/article-1390307",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T15:33:16.000Z"
+    },
+    {
+      "title": "מחר: מרתון חיפה הראשון | המסלול - וכל החסימות",
+      "link": "https://www.ynet.co.il/news/article/sy1611t3rfe",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T15:32:20.000Z"
+    },
+    {
+      "title": "אחרי המחדל החמור בים סוף: מפקד חיל הים הפיל את ההחלטה",
+      "link": "https://www.maariv.co.il/news/military/article-1390305",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T15:31:22.000Z"
+    },
+    {
+      "title": "חיל האוויר ביצע סיכול ממוקד בלב העיר עזה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962248",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T15:13:28.000Z"
+    },
+    {
+      "title": "בזמן המלחמה באיראן: שיבוש במערכות המודיעין של ארה\"ב גרם לשיתוק של ימים",
+      "link": "https://www.maariv.co.il/news/world/article-1390300",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T15:12:13.000Z"
+    },
+    {
+      "title": "המועמד של איזנקוט למבקר המדינה: יוסף אלרון - היחיד שנותר במרוץ",
+      "link": "https://www.ynet.co.il/news/article/hyafhy20ze",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T14:58:45.000Z"
+    },
+    {
+      "title": "הליכוד: \"למרות שאיזנקוט וגוש השמאל ומתעלמים מבקשותינו להתקדמות לאחדות, הצוותים יפגשו ביום ראשון\"",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390298",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T14:57:38.000Z"
+    },
+    {
+      "title": "הליכוד מודיע: ניפגש עם ישר! להמשך המו\"מ - אך תוקף בחריפות את איזנקוט",
+      "link": "https://www.walla.co.il/news/breaking-news/383962245",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T14:55:41.000Z"
+    },
+    {
+      "title": "תפנית במשפט נתניהו: ההגנה התקפלה, בג\"ץ מחק את העתירה",
+      "link": "https://www.maariv.co.il/news/law/article-1390295",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T14:54:25.000Z"
+    },
+    {
+      "title": "מד\"א: בן 11 נפצע בינוני ברכיבה על קורקינט חשמלי",
+      "link": "https://www.walla.co.il/news/breaking-news/383962244",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T14:52:56.000Z"
+    },
+    {
+      "title": "אחרי שמינתה יו\"ר כנסת - זה המועמד המוסכם על ראשי גוש השינוי",
+      "link": "https://www.maariv.co.il/news/politics/article-1390288",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T14:49:15.000Z"
+    },
+    {
+      "title": "בישראל מעריכים שכך תפתח המלחמה עם איראן: \"משום מקום\"",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390293",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T14:49:09.000Z"
+    },
+    {
+      "title": "טירוף ה-GTA 6: זינוק של 60% בנפח הורדת המשחק ברשת פרטנר",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390292",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T14:42:54.000Z"
+    },
+    {
+      "title": "תאונה בכביש 5: פצועה בינוני ועוד חמישה קל",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390290",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T14:40:35.000Z"
+    },
+    {
+      "title": "מכה לטאקר קרלסון: זה מה שמצביעי המפלגה הרפובליקנית באמת חושבים על ישראל",
+      "link": "https://www.maariv.co.il/news/world/article-1390285",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T14:34:27.000Z"
+    },
+    {
+      "title": "הפגנות נרחבות של חרדים קיצוניים - רימוני הלם השולכו לעברם",
+      "link": "https://www.maariv.co.il/news/law/article-1390280",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T14:24:30.000Z"
+    },
+    {
+      "title": "הפעם לא תהיה הפתעה: הרגע שנדע מתי תתחיל המלחמה מול איראן",
+      "link": "https://www.maariv.co.il/news/military/article-1390283",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T14:23:43.000Z"
+    },
+    {
+      "title": "תוכנית איזנקוט: יביא להצבעה ממשלה - גם אם ייכשלו המגעים עם החרדים או לאחדות",
+      "link": "https://www.ynet.co.il/news/article/hkj11100nrme",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T14:20:59.000Z"
+    },
+    {
+      "title": "מפלגות השינוי יציגו את יוסף אלרון כמועמד למבקר המדינה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962237",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T14:17:51.000Z"
+    },
+    {
+      "title": "\"אחריות מיוחדת\": טראמפ, פוטין ושי בפסגה שלא הניבה פריצת דרך",
+      "link": "https://www.maariv.co.il/news/world/article-1390276",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T14:13:55.000Z"
+    },
+    {
+      "title": "גוש השינוי החליט להציג את שופט בית המשפט העליון בדימוס, יוסף אלרון, כמועמד לתפקיד מבקר המדינה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390279",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T14:13:26.000Z"
+    },
+    {
+      "title": "ערב חד-פעמי של קולנוע ושיח: שולי רנד מגיע למפגש אישי ולהקרנת הסרט \"הבדחן\" ב-HOT CINEMA פתח תקווה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390277",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T14:11:01.000Z"
+    },
+    {
+      "title": "טיל חות'י פגע בגורד השחקים הגבוה בריאד; מחאה נדירה באיראן: \"מוות לדיקטטור!\" | תיעוד",
+      "link": "https://www.ynet.co.il/news/article/sjwhr00hczx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T14:08:48.000Z"
+    },
+    {
+      "title": "רפי סער שלח קרוב משפחה להביא לו את התפילין - המשטרה מצאה בפנים משהו אחר לגמרי",
+      "link": "https://www.maariv.co.il/news/law/article-1390274",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T14:07:04.000Z"
+    },
+    {
+      "title": "\"פגע בנו, חזר מאחור, נתן גז וברח\": הנפגעות בדריסה בכפר קאסם מדברות לראשונה",
+      "link": "https://www.walla.co.il/news/israel/383962233",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T13:55:28.000Z"
+    },
+    {
+      "title": "ליידי גאגא יצאה משיעור יוגה - ואף אחד לא ציפה לראות אותה ככה",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390270",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T13:55:11.000Z"
+    },
+    {
+      "title": "הסתבכות חדשה לראש העיר כפ\"ס החשוד בשוחד: תיק התפילין מהמשרד הכיל שעוני יוקרה",
+      "link": "https://www.ynet.co.il/news/article/b16wcu3cmx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T13:54:55.000Z"
+    },
+    {
+      "title": "מייק אפ ב־330 שקל וסרום ב־1,000: מוצרי הביוטי שהפתיעו אותי החודש",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390269",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T13:54:22.000Z"
+    },
+    {
+      "title": "שום אחדות עם נתניהו | דן פרי",
+      "link": "https://www.maariv.co.il/news/opinions/article-1390268",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T13:53:51.000Z"
+    },
+    {
+      "title": "ראש עיר נחקר בחשד לשיבוש חקירה: שעונים יוקרתיים נמצאו בתיק הטלית שלו",
+      "link": "https://www.walla.co.il/news/breaking-news/383962232",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T13:53:28.000Z"
+    },
+    {
+      "title": "אריאנה גרנדה עלתה על עקבים של 12 ס\"מ - ולא תאמינו כמה הם עולים",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390267",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T13:51:54.000Z"
+    },
+    {
+      "title": "הבכיר העיראקי נשאל על ישראל - והפתיע: \"איני רואה כל עוול\"",
+      "link": "https://www.maariv.co.il/news/world/article-1390266",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T13:51:53.000Z"
+    },
+    {
+      "title": "ראש עירייה נחקר בחשד לשיבוש חקירת שוחד",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390265",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T13:50:32.000Z"
+    },
+    {
+      "title": "\"30 שנה לא נתקלתי בדבר כזה\": הסוף המפתיע לכספת ביער",
+      "link": "https://www.maariv.co.il/news/viral/article-1390261",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T13:45:28.000Z"
+    },
+    {
+      "title": "אחרי כשנתיים: תמיר סטיינמן ועדי זריפי נפרדים",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390260",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T13:37:52.000Z"
+    },
+    {
+      "title": "סערת הריאיון עם עמרי אסנהיים בכאן 11: מכה ליונתן אוריך",
+      "link": "https://www.maariv.co.il/news/law/article-1390258",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T13:34:53.000Z"
+    },
+    {
+      "title": "נער בן 13 נפצע קשה מפגיעת רכב בשגב שלום",
+      "link": "https://www.walla.co.il/news/breaking-news/383962230",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T13:31:43.000Z"
+    },
+    {
+      "title": "10,000 הרוגים ו-400 כפרים שנשרפו: ההכרעה ההיסטורית בהאג",
+      "link": "https://www.maariv.co.il/news/world/article-1390256",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T13:29:41.000Z"
+    },
+    {
+      "title": "בן 13 במצב קשה בעקבות פגיעת רכב בשגב שלום",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390255",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T13:27:17.000Z"
+    },
+    {
+      "title": "בעקבות הפגנה: כביש 4 נחסם לתנועה במספר מקטעים",
+      "link": "https://www.maariv.co.il/breaking-news/article-1390254",
+      "source": "מעריב מבזקים",
+      "pubDate": "2026-11-19T13:25:33.000Z"
+    },
+    {
+      "title": "בהלת הכלבת בשפלה: תושבים נשלחו למיון לטיפול מונע, מבצע חיסונים לכלבים",
+      "link": "https://www.ynet.co.il/news/article/rj0owwn0gl",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T13:16:52.000Z"
+    },
+    {
+      "title": "שיתף את ChatGPT בכוונתו לרצוח את אשתו - ונעצר",
+      "link": "https://www.walla.co.il/news/israel/383962196",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T13:16:35.000Z"
+    },
+    {
+      "title": "סולברג דחה את בקשת אוריך לדיון נוסף בפרשת הריאיון עם פלדשטיין",
+      "link": "https://www.walla.co.il/news/breaking-news/383962195",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T13:16:25.000Z"
+    },
+    {
+      "title": "הסיכויים לתקיפה באיראן גוברים - והצעד החריג במטוס הנשיאותי",
+      "link": "https://www.maariv.co.il/news/military/article-1390249",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T13:15:42.000Z"
+    },
+    {
+      "title": "תפנית בפרשת רצח בניהו רזי בירושלים: המסמך שעשוי להוביל לשחרור הנאשמת | פרסום ראשון",
+      "link": "https://www.maariv.co.il/news/law/article-1390244",
+      "source": "מעריב",
+      "pubDate": "2026-11-19T13:13:50.000Z"
+    },
+    {
+      "title": "בשל מחלוקת ביטחונית בין ישראל לאמירויות: חידוש הטיסות לדובאי נדחה שוב",
+      "link": "https://www.walla.co.il/news/israel/383962194",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T13:08:26.000Z"
+    },
+    {
+      "title": "אחות לנוה 5 חודשים אחרי נפילתו בלבנון: \"ביקשתי ממנו בלידה שיעזור להביא אותה\"",
+      "link": "https://www.ynet.co.il/news/article/sknm1w3rfl",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T12:59:02.000Z"
+    },
+    {
+      "title": "כ\"ץ: \"לא אגרר להתקפות אישיות ולהאשמות חסרות בסיס\"",
+      "link": "https://www.walla.co.il/news/breaking-news/383962192",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T12:58:30.000Z"
+    },
+    {
+      "title": "חוק הנאשם, נבצרות והגבלת כהונה: ההצעה שהניחו בגוש השינוי על שולחן הכנסת",
+      "link": "https://www.ynet.co.il/news/article/bkkhwpncfe",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T12:57:13.000Z"
+    },
+    {
+      "title": "מחשש לריגול סיני: עיתונאים במטוס טראמפ מסרו את הטלפונים",
+      "link": "https://www.walla.co.il/news/breaking-news/383962191",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T12:56:10.000Z"
+    },
+    {
+      "title": "צה\"ל השמיד מנהרה ותשתיות טרור במחנה נוסייראת ברצועת עזה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962187",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T12:39:47.000Z"
+    },
+    {
+      "title": "אישום: שני תושבי קריית מלאכי השליכו מטען חבלה לעבר בית בכפר סבא",
+      "link": "https://www.walla.co.il/news/breaking-news/383962186",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T12:33:37.000Z"
+    },
+    {
+      "title": "גוש בגרון: נתניהו נועץ את הטריזים, בצד השני עסוקים בסיכולי תוכניות לממשלה",
+      "link": "https://www.ynet.co.il/news/article/syv1jrnrfg",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T12:29:32.000Z"
+    },
+    {
+      "title": "משרד הבריאות מודיע: זה המקום שבו שהתה הכלבה הנגועה בכלבת | ההנחיות לציבור",
+      "link": "https://www.walla.co.il/news/israel/383962183",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T12:26:18.000Z"
+    },
+    {
+      "title": "\"למנוע ריכוז כוח שלטוני\": הוגשה הצעת החוק להגבלת כהונת ראש הממשלה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962181",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T12:11:17.000Z"
+    },
+    {
+      "title": "נערים ישראלים דיווחו שהותקפו. בכרתים מאשימים אותם בהחזקת נשק",
+      "link": "https://www.ynet.co.il/news/article/s11t3hh0zx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T12:08:28.000Z"
+    },
+    {
+      "title": "גבר הסיכוי לתקיפה אמריקנית נרחבת נוספת באיראן",
+      "link": "https://www.walla.co.il/news/breaking-news/383962180",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T12:07:19.000Z"
+    },
+    {
+      "title": "בית הדין הבין-לאומי לצדק קבע: מיאנמר ביצעה רצח עם נגד בני הרוהינגיה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962179",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T12:00:40.000Z"
+    },
+    {
+      "title": "בן 97 נפצע בתאונה בין רכב לקלנועית בשבלי",
+      "link": "https://www.walla.co.il/news/breaking-news/383962178",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T11:57:43.000Z"
+    },
+    {
+      "title": "בשעות השיא: יתוגבר קו הרכבת העמוס מירושלים למרכז",
+      "link": "https://www.ynet.co.il/news/article/syny87n0ze",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T11:54:41.000Z"
+    },
+    {
+      "title": "שר הפנים של איטליה: גל מתקפות הסייבר נועד לערער את יציבות המדינה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962177",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T11:50:44.000Z"
+    },
+    {
+      "title": "החשוד במסע הדריסה בכפר קאסם פרץ בצחוק בדיון: \"מה אתם טוענים שעשיתי?\"",
+      "link": "https://www.ynet.co.il/news/article/bkadku2cfe",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T11:48:19.000Z"
+    },
+    {
+      "title": "הכרעה היסטורית בהאג: מיאנמר ביצעה רצח עם בבני הרוהינגה",
+      "link": "https://www.ynet.co.il/news/article/h1mmg8nrgx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T11:48:16.000Z"
+    },
+    {
+      "title": "השער המלגלג על יו\"ר הכנסת בשבועון בעלי ערוץ 14 - ותגובת איזנקוט: \"הסתה פרועה\"",
+      "link": "https://www.ynet.co.il/news/article/s1omvu2ame",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T11:39:12.000Z"
+    },
+    {
+      "title": "מול עיני אשתו: שלושה נאשמים בתקיפת בן 63 ובגרימת שבר בצלעותיו",
+      "link": "https://www.walla.co.il/news/breaking-news/383962171",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T11:16:34.000Z"
+    },
+    {
+      "title": "צפי להפגנה בבני ברק: ייתכנו חסימות בכביש 4 ובציר ז'בוטינסקי",
+      "link": "https://www.walla.co.il/news/breaking-news/383962168",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T10:58:39.000Z"
+    },
+    {
+      "title": "הפגנות החרדים: עימותים עם המשטרה - אבנים הושלכו לעבר הכוחות",
+      "link": "https://www.walla.co.il/news/israel/383962166",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T10:57:48.000Z"
+    },
+    {
+      "title": "סין, ארה\"ב ורוסיה בהצהרה משותפת: \"אסור שתפרוץ מלחמה גרעינית\"",
+      "link": "https://www.walla.co.il/news/breaking-news/383962163",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T10:47:29.000Z"
+    },
+    {
+      "title": "החיכוך גובר: הפעילות החריגה במרכז הרצועה - ואזהרת המועצה שהקים טראמפ",
+      "link": "https://www.ynet.co.il/news/article/rknygnncgl",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T10:43:49.000Z"
+    },
+    {
+      "title": "פרץ בצחוק ואמר “הכול טוב”: מעצר הנהג החשוד בדריסה בכפר קאסם הוארך בחמישה ימים",
+      "link": "https://www.walla.co.il/news/israel/383962162",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T10:37:35.000Z"
+    },
+    {
+      "title": "אושר אותר ללא רוח חיים בבסיס לפני 6 ימים: \"כתב לי 'אמא, אני אוהב אותך'\"",
+      "link": "https://www.ynet.co.il/news/article/hjdmmnnrml",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T10:36:45.000Z"
+    },
+    {
+      "title": "איראן: שתי מכליות נפט נפגעו ממוקשים ימיים במצר הורמוז ועלו באש",
+      "link": "https://www.walla.co.il/news/breaking-news/383962126",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T10:21:11.000Z"
+    },
+    {
+      "title": "שלוש המעצמות נפגשו בסין: טראמפ, שי ופוטין קיימו פסגה היסטורית",
+      "link": "https://www.ynet.co.il/news/article/sjncrehamx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T10:07:16.000Z"
+    },
+    {
+      "title": "מפלגת ישר נגד \"עולם קטן\": \"הסתה פרועה נגד יו\"ר הכנסת\"",
+      "link": "https://www.walla.co.il/news/breaking-news/383962124",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T10:05:18.000Z"
+    },
+    {
+      "title": "בזמן מלחמה עם איראן: התקלה ב-NSA שיבשה את פעילות המודיעין האמריקני במזרח התיכון",
+      "link": "https://www.ynet.co.il/news/article/byg3cx2agg",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T09:58:57.000Z"
+    },
+    {
+      "title": "עשרות נעדרים לאחר שסירת מהגרים התהפכה מול חופי סנגל באפריקה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962122",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T09:47:23.000Z"
+    },
+    {
+      "title": "גבר כבן 70 נורה למוות בערערה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962118",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T09:28:45.000Z"
+    },
+    {
+      "title": "בן 74 נרצח ביריות בוואדי ערה",
+      "link": "https://www.ynet.co.il/news/article/h1c21shcml",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T09:26:05.000Z"
+    },
+    {
+      "title": "אחרי בנט ואיזנקוט: גם ליברמן הוזמן לתדריך ביטחוני",
+      "link": "https://www.walla.co.il/news/breaking-news/383962116",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T09:21:48.000Z"
+    },
+    {
+      "title": "הפרלמנט הדני אישר את הסכם הביטחון עם טראמפ בנוגע לגרינלנד",
+      "link": "https://www.walla.co.il/news/breaking-news/383962115",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T09:20:48.000Z"
+    },
+    {
+      "title": "אחרי איזנקוט ובנט: גם ליברמן יקבל תדרוך ביטחוני, מהמזכיר הצבאי",
+      "link": "https://www.ynet.co.il/news/article/byoiae20fe",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T09:14:55.000Z"
+    },
+    {
+      "title": "פינוי והעתקה - או שימור והנצחה: הקרב על שכונת \"דור צעיר\" הגיע לבג\"ץ",
+      "link": "https://www.ynet.co.il/news/article/sk500p11ocfx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T09:10:39.000Z"
+    },
+    {
+      "title": "נשיא סין קורא לשיתוף פעולה עם ארה\"ב בתחום הבינה המלאכותית",
+      "link": "https://www.walla.co.il/news/breaking-news/383962112",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T08:59:35.000Z"
+    },
+    {
+      "title": "האישה שנדבקה בכלבת עדיין במצב אנוש: זו כלבת ה\"אמריקן בולי\" שהייתה נגועה",
+      "link": "https://www.ynet.co.il/news/article/sk11pozn0fe",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T08:56:00.000Z"
+    },
+    {
+      "title": "המשטרה על הצתת המסגד בכפר דחי: החקירה הועברה ליחידה המרכזית",
+      "link": "https://www.walla.co.il/news/breaking-news/383962111",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T08:47:26.000Z"
+    },
+    {
+      "title": "נשיא סין לטראמפ: ארה\"ב חייבת לפעול נכון בסוגיית טייוואן",
+      "link": "https://www.walla.co.il/news/breaking-news/383962108",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-19T08:28:29.000Z"
+    },
+    {
+      "title": "מ\"בחירות למופת\" - לפיגוע אסטרטגי: \"זיני אינו כשיר לתפקיד ראש השב\"כ\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14962858",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T08:22:17.000Z"
+    },
+    {
+      "title": "סקר: 59% מהערבים בישראל תומכים בהצטרפות מפלגה ערבית לממשלה",
+      "link": "https://www.walla.co.il/news/israel/383962065",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T08:20:19.000Z"
+    },
+    {
+      "title": "במחאה על מעצר עריק בנתב\"ג: חרדים קיצונים יחסמו את כביש 4 במחלף גהה",
+      "link": "https://www.ynet.co.il/news/article/s1vyo7hcgl",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T08:18:43.000Z"
+    },
+    {
+      "title": "עץ קרס ברחוב יהודה המכבי בתל אביב: הכביש נחסם לתנועה בשני הכיוונים",
+      "link": "https://www.walla.co.il/news/israel/383962103",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T08:10:47.000Z"
+    },
+    {
+      "title": "לא רק מצוקה כלכלית: יותר ממחצית מהילדים בתוכנית לנוער בסיכון ממשפחות מבוססות כלכלית",
+      "link": "https://www.walla.co.il/news/israel/383962102",
+      "source": "וואלה חדשות",
+      "pubDate": "2026-11-19T08:04:21.000Z"
+    },
+    {
+      "title": "רוסיה: 12 שנות מאסר לישראלי-אוקראיני שניהל רשת בינלאומית לסחר באיברים",
+      "link": "https://www.ynet.co.il/news/article/b131gxncfx",
+      "source": "Ynet",
+      "pubDate": "2026-11-19T07:51:38.000Z"
+    },
+    {
+      "title": "עץ ענק קרס בלב שכונת מגורים בתל אביב, אין נפגעים",
       "link": "https://www.ynet.co.il/news/article/rjssw72rgx",
       "source": "Ynet",
       "pubDate": "2026-11-19T07:49:29.000Z"
-    },
-    {
-      "title": "פועל בן 52 נפצע בינוני מנפילה מגובה באתר בנייה בכפר סבא",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390093",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T07:48:38.000Z"
-    },
-    {
-      "title": "פרשת טוהר הבחירות: במשטרה מודים - לא יודעים למי יועדו מעטפות הכסף",
-      "link": "https://www.maariv.co.il/news/law/article-1390091",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T07:48:20.000Z"
-    },
-    {
-      "title": "יפה לה: יונית לוי עברה לצבע בלנוד",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390090",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T07:46:41.000Z"
-    },
-    {
-      "title": "שלושה חשודים עוכבו בחשד להשלכת פסולת בגן הלאומי צור נתן",
-      "link": "https://www.walla.co.il/news/breaking-news/383962099",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T07:43:43.000Z"
-    },
-    {
-      "title": "105 מתמודדי נפש השתתפו בטורניר כדורסל לציון עשור לליגת \"עושים ליגה\"",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390089",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T07:41:49.000Z"
     },
     {
       "title": "בין הנצחה לשיקום: בג\"ץ דן בגורל השכונה שבה נרצחו עשרות בכפר עזה",
       "link": "https://www.walla.co.il/news/israel/383962096",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-19T07:36:04.000Z"
-    },
-    {
-      "title": "בדרך לפסגה עם מנהיגי העולם: הנשיאה שישבה במחלקת תיירים",
-      "link": "https://www.maariv.co.il/news/viral/article-1390086",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T07:35:30.000Z"
-    },
-    {
-      "title": "המפכ\"ל נגד ההדלפה לערוץ 14: \"ניסיון לפגוע בקידום\"",
-      "link": "https://www.maariv.co.il/news/israel/article-1390087",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T07:34:40.000Z"
-    },
-    {
-      "title": "מה באמת רוצה נפתלי בנט: \"אני לא חושב שזה תשומת לב\"",
-      "link": "https://www.maariv.co.il/news/politics/article-1390085",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T07:31:05.000Z"
-    },
-    {
-      "title": "טראמפ לשי: שנינו רוצים לסייע בסיום המלחמה באוקראינה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962095",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T07:25:48.000Z"
-    },
-    {
-      "title": "אלישע מדן על הסרטון שעורר סערה: \"הפה שלי היה מטונף, אמרתי דברים מגעילים\"",
-      "link": "https://www.ynet.co.il/news/article/b1bpkbncgg",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T07:24:49.000Z"
     },
     {
       "title": "השפעת ממשיכה להתפשט: מאות מאושפזים, שיעורי ההתחסנות עדיין נמוכים",
@@ -93,76 +681,10 @@
       "pubDate": "2026-11-19T07:17:18.000Z"
     },
     {
-      "title": "ראש בית המדרש הוותיק נהרג מקפיצה במעיין שליד ביתו: \"איבדנו מחנך ענק\"",
-      "link": "https://www.ynet.co.il/news/article/sk114dgn0ml",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T07:15:00.000Z"
-    },
-    {
-      "title": "תושב חברון נעצר בחשד לאיומים על נבחר ציבור | נחשף ב-ynet",
-      "link": "https://www.ynet.co.il/news/article/sjtyyx30zg",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T07:10:47.000Z"
-    },
-    {
-      "title": "רוכב אופנוע בן 25 נפצע בינוני מפגיעת רכב בכביש 4 סמוך לצומת אשכולות",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390074",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T07:02:45.000Z"
-    },
-    {
-      "title": "הולכת רגל כבת 80 נפצעה בינוני מפגיעת רכב בחיפה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390073",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T07:01:21.000Z"
-    },
-    {
-      "title": "תושב חברון נעצר בחשד שאיים ברצח על נבחר ציבור בירושלים",
-      "link": "https://www.walla.co.il/news/breaking-news/383962091",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T07:00:06.000Z"
-    },
-    {
-      "title": "כלב גישוש הוביל למטען נפץ - אבל השופט לא השתכנע מהראיות",
-      "link": "https://www.maariv.co.il/news/law/article-1390071",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T06:59:57.000Z"
-    },
-    {
-      "title": "\"לעולם לא תהיה לנו בעיה\": ההבטחה של טראמפ לנשיא סין",
-      "link": "https://www.maariv.co.il/news/world/article-1390070",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T06:58:06.000Z"
-    },
-    {
-      "title": "עימות חריף בגרמניה: שגריר ישראל נגד פרנצ'סקה אלבנזה",
-      "link": "https://www.maariv.co.il/news/world/article-1390067",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T06:54:37.000Z"
-    },
-    {
-      "title": "טייוואן: שני מטוסים צבאיים רוסיים טסו ממזרח לאי",
-      "link": "https://www.walla.co.il/news/breaking-news/383962089",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T06:50:52.000Z"
-    },
-    {
       "title": "ההכנסה עלתה, הפערים נותרו: הקשר בין המצב הכלכלי בינקות להישגים בבית הספר",
       "link": "https://www.walla.co.il/news/israel/383962033",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-19T06:50:38.000Z"
-    },
-    {
-      "title": "שלוש המעצמות נפגשות בסין: טראמפ, שי ופוטין בדרך לפסגה היסטורית",
-      "link": "https://www.ynet.co.il/news/article/sjncrehamx",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T06:50:20.000Z"
-    },
-    {
-      "title": "טבע מודיעה על שינוי בהנהלת המחקר והפיתוח - המנהל הרפואי הראשי הודיע על עזיבתו",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390065",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T06:44:27.000Z"
     },
     {
       "title": "תחקיר ראשוני: הצעירה שחלתה בכלבת היא פעילת זכויות בע\"ח",
@@ -171,160 +693,10 @@
       "pubDate": "2026-11-19T06:31:31.000Z"
     },
     {
-      "title": "סמים ותחמושת נתפסו בדירה בדרום תל אביב, חשודה נעצרה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962085",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T06:30:05.000Z"
-    },
-    {
-      "title": "איזנקוט הציע דיל ליהדות התורה - ואז הגיע התרגיל של האריה השותק",
-      "link": "https://www.maariv.co.il/news/politics/article-1390012",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T06:28:00.000Z"
-    },
-    {
-      "title": "פטריות הזיה, קוקאין, LSD ותחמושת: הפשיטה על דירה בדרום תל אביב",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390062",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T06:27:39.000Z"
-    },
-    {
-      "title": "הפסגה ההיסטורית בסין נפתחת עם איום חריף על איראן",
-      "link": "https://www.maariv.co.il/news/world/article-1390059",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T06:25:17.000Z"
-    },
-    {
-      "title": "110 מיליון שקל ביום: הפקק היקר בישראל",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390057",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T06:10:35.000Z"
-    },
-    {
-      "title": "רוכב אופנוע נפצע קשה ושניים נפצעו קל בתאונה בכביש 581 סמוך לצומת חביבה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390056",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T06:09:23.000Z"
-    },
-    {
-      "title": "טראמפ ושי נפגשו בסין: \"היחסים בין המדינות יציבים ומשתפרים\"",
-      "link": "https://www.walla.co.il/news/breaking-news/383962084",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T06:08:19.000Z"
-    },
-    {
-      "title": "שלושה נפצעו בתאונת דרכים באשדוד, אחד מהם בינוני; רכב התהפך",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390055",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T06:07:36.000Z"
-    },
-    {
-      "title": "יממה אחרי הביקור בישראל: מפקד סנטקום נפגש עם בן סלמאן בריאד",
-      "link": "https://www.maariv.co.il/news/world/article-1390050",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T06:06:56.000Z"
-    },
-    {
-      "title": "הקרמלין: פגישת פוטין וטראמפ עברה בהצלחה, השניים דנו באוקראינה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962083",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T06:05:13.000Z"
-    },
-    {
-      "title": "רגע לפני הנפקת אנתרופיק: מחיר המניה עלה - והשווי הכולל הגיע ל-1.5 טריליון דולר",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390053",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T06:04:57.000Z"
-    },
-    {
-      "title": "עבדול אל-סייד תוקף: \"ישראל לא צריכה להיות מדינה יהודית\"",
-      "link": "https://www.maariv.co.il/news/world/article-1390048",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T05:53:57.000Z"
-    },
-    {
-      "title": "הקרמלין: פוטין יצא מהמפגש עם טראמפ \"במצב רוח מצוין\"",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390049",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T05:49:08.000Z"
-    },
-    {
-      "title": "גבר נפצע קשה ושניים קל בתאונת דרכים סמוך למושב מאור",
-      "link": "https://www.walla.co.il/news/breaking-news/383962081",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T05:48:09.000Z"
-    },
-    {
-      "title": "פוטין לטראמפ: שמח לפגוש אותך; טראמפ נפגש עם נשיא סין",
-      "link": "https://www.walla.co.il/news/breaking-news/383962080",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T05:34:02.000Z"
-    },
-    {
-      "title": "דיווחים: רוסיה תקפה כלי שיט ותשתיות באוקראינה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962079",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T05:32:54.000Z"
-    },
-    {
-      "title": "המשטרה פתחה בחקירת שריפה במסגד סמוך לעפולה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962078",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T05:22:59.000Z"
-    },
-    {
       "title": "חשד לפשע שנאה: מסגד הוצת סמוך לעפולה, המשטרה פתחה בחקירה | תיעוד",
       "link": "https://www.walla.co.il/news/israel/383962077",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-19T05:21:30.000Z"
-    },
-    {
-      "title": "\"נקמה\": מסגד הוצת ליד עפולה, שב\"כ מעורב בחקירה",
-      "link": "https://www.ynet.co.il/news/article/hkq4z1120fg",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T05:19:58.000Z"
-    },
-    {
-      "title": "מסגד הוצת ליד עפולה וכתובות נאצה רוססו: השב\"כ מעורב בחקירה",
-      "link": "https://www.maariv.co.il/news/law/article-1390041",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T05:16:50.000Z"
-    },
-    {
-      "title": "ממדאני נשאל מדוע תקף את ישראל ב-7 באוקטובר - וכך הוא הגיב",
-      "link": "https://www.maariv.co.il/news/world/article-1390036",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T05:14:47.000Z"
-    },
-    {
-      "title": "שריפה פרצה לפנות בוקר במסגד סמוך לעפולה - המשטרה פתחה בחקירה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390034",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-19T04:34:46.000Z"
-    },
-    {
-      "title": "תוכנית התקיפה באיראן: היעד שישראל רוצה - וטראמפ טרם אישר",
-      "link": "https://www.maariv.co.il/news/world/article-1390033",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T04:34:00.000Z"
-    },
-    {
-      "title": "מגמת התחממות: עלייה בטמפרטורות לאורך כל הסופ\"ש | התחזית",
-      "link": "https://www.ynet.co.il/news/article/2r20z0ktk",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T04:05:33.000Z"
-    },
-    {
-      "title": "מאחורי המסלול הירוק בנתב\"ג: מה שכלבי המכס מגלים ביחידה שמציינת 30 שנה",
-      "link": "https://www.maariv.co.il/news/law/article-1390008",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T04:00:43.000Z"
-    },
-    {
-      "title": "משבר ממשלת המיעוט: המהלך שנבחן בגוש השינוי לעקיפת הווטו של ליברמן",
-      "link": "https://www.maariv.co.il/news/politics/article-1389998",
-      "source": "מעריב",
-      "pubDate": "2026-11-19T04:00:43.000Z"
     },
     {
       "title": "מההיריון ועד כיתה ה': הקשר בין הכנסת ההורים להישגי הילדים",
@@ -334,267 +706,9 @@
     },
     {
       "title": "אחרי עלייה בטמפרטורות: סוף השבוע יהיה חם מהרגיל | התחזית",
-      "link": "https://www.walla.co.il/news/breaking-news/383962076",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T03:32:49.000Z"
-    },
-    {
-      "title": "אחרי עלייה בטמפרטורות: סוף השבוע יהיה חם מהרגיל | התחזית",
       "link": "https://www.walla.co.il/news/israel/383962075",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-19T03:32:07.000Z"
-    },
-    {
-      "title": "\"אנשים צעקו והוא נמלט, הצילו אותנו\": בכפר קאסם מזועזעים ממסע הדריסה",
-      "link": "https://www.ynet.co.il/news/article/rjcstsoczl",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T02:24:40.000Z"
-    },
-    {
-      "title": "שניים נפצעו בתאונת דרכים בנגב, בן 33 במצב קשה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962072",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T01:46:40.000Z"
-    },
-    {
-      "title": "נתניהו דוחף למערכה \"אגרסיבית\" של 7-4 ימים באיראן, טראמפ מתלבט | דיווח",
-      "link": "https://www.ynet.co.il/news/article/sjlfpsorfx",
-      "source": "Ynet",
-      "pubDate": "2026-11-19T01:45:14.000Z"
-    },
-    {
-      "title": "טראמפ על מנכ״ל אנבידיה: \"אנחנו חייבים לשמור על הגאונים שלנו\"",
-      "link": "https://www.walla.co.il/news/breaking-news/383962071",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T01:12:07.000Z"
-    },
-    {
-      "title": "טראמפ: \"יש אינדיקציות שאיראן בוחנת שימוש בנשק כימי וביולוגי״",
-      "link": "https://www.walla.co.il/news/breaking-news/383962069",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T00:41:08.000Z"
-    },
-    {
-      "title": "טראמפ: \"אנחנו מרגלים אחרי סין, ואני חושב שאנחנו עושים את זה טוב יותר מהם\"",
-      "link": "https://www.walla.co.il/news/breaking-news/383962068",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T00:33:30.000Z"
-    },
-    {
-      "title": "טראמפ על התקלות האחרונות בארה\"ב: \"מדובר באירועים נפרדים\"",
-      "link": "https://www.walla.co.il/news/breaking-news/383962067",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T00:28:48.000Z"
-    },
-    {
-      "title": "רוסיה: התנועה בגשר קרים הושבתה זמנית בעקבות תקיפה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962066",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-19T00:18:31.000Z"
-    },
-    {
-      "title": "\"הייתי מוציא פחות כסף\": אחרי שהשקיע קרוב לחצי מיליארד דולר - מאסק מתחרט",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390027",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-18T23:51:47.000Z"
-    },
-    {
-      "title": "דיווח |בעקבות המחאות ליד ביתו: המחווה המרגשת של ח\"כ אליסף פרץ לשכניו",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390026",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-18T23:31:50.000Z"
-    },
-    {
-      "title": "אחרי הפגישה עם הרמטכ\"ל וראש המוסד: מפקד סנטקום נועד עם שר ההגנה הסעודי",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390025",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-18T23:14:39.000Z"
-    },
-    {
-      "title": "דיווח: התקלה ב-NSA פגעה גם בפעילות המודיעין האמריקני מול איראן",
-      "link": "https://www.walla.co.il/news/breaking-news/383962061",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T23:09:15.000Z"
-    },
-    {
-      "title": "ארה”ב מוציאה נושאת מטוסים מהמזרח התיכון",
-      "link": "https://www.walla.co.il/news/breaking-news/383962059",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T22:42:34.000Z"
-    },
-    {
-      "title": "הסלמה מתחת לרדאר: ההתפתחויות שמרמזות - עימות מחודש בדרך",
-      "link": "https://www.ynet.co.il/news/article/h1807roamg",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:23:28.000Z"
-    },
-    {
-      "title": "גיוס של כ-68 מיליארד דולר: אנתרופיק קבעה את מחיר ההנפקה בנאסד\"ק",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390021",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-18T22:21:38.000Z"
-    },
-    {
-      "title": "איראן מאשרת כי תקפה בסיסים אמריקניים - ומוסיפה איום למדינות המפרץ",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390020",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-18T22:16:59.000Z"
-    },
-    {
-      "title": "התרגיל שמאיים עלינו",
-      "link": "https://www.ynet.co.il/news/article/yokra14963363",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:12:00.000Z"
-    },
-    {
-      "title": "דיווח: סעודיה יירטה טיל ששיגרו החות'ים לעבר דרום המדינה",
-      "link": "https://www.maariv.co.il/breaking-news/article-1390018",
-      "source": "מעריב מבזקים",
-      "pubDate": "2026-11-18T22:10:57.000Z"
-    },
-    {
-      "title": "אין ברירה: אחדות",
-      "link": "https://www.ynet.co.il/news/article/yokra14963490",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:10:00.000Z"
-    },
-    {
-      "title": "נורת אזהרה לכולנו",
-      "link": "https://www.ynet.co.il/news/article/yokra14963564",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:08:00.000Z"
-    },
-    {
-      "title": "לחשב אסטרטגיה מחדש",
-      "link": "https://www.ynet.co.il/news/article/yokra14963337",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:06:00.000Z"
-    },
-    {
-      "title": "אנחנו דור 7 באוקטובר",
-      "link": "https://www.ynet.co.il/news/article/yokra14963344",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:04:00.000Z"
-    },
-    {
-      "title": "בידיים של ליברמן",
-      "link": "https://www.ynet.co.il/news/article/yokra14963695",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:02:00.000Z"
-    },
-    {
-      "title": "מ\"בחירות למופת\" - לפיגוע אסטרטגי: \"זיני אינו  כשיר לתפקיד ראש השב\"כ\"",
-      "link": "https://www.ynet.co.il/news/article/yokra14962858",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T22:00:00.000Z"
-    },
-    {
-      "title": "\"לא ייתכן\": המפכ\"ל טוען שהודלף מסמך אישי של הדובר - ורומז לאנשי בן גביר",
-      "link": "https://www.ynet.co.il/news/article/rydgdko0zl",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T21:38:33.000Z"
-    },
-    {
-      "title": "ארה\"ב: שופט פדרלי האריך את הצו האוסר על טראמפ להקים שער ניצחון",
-      "link": "https://www.walla.co.il/news/breaking-news/383962057",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T21:24:58.000Z"
-    },
-    {
-      "title": "\"אובר אייר\" כבר כאן: תחנת המוניות האוויריות הראשונה הוקמה בדובאי",
-      "link": "https://www.ynet.co.il/news/article/bkpjbuorze",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T21:21:39.000Z"
-    },
-    {
-      "title": "ניסה לפתות ילדות לרכב, ועקב אחרי שברחו | טענת המשפחה, והתיעוד \"שהמשטרה לא בודקת\"",
-      "link": "https://www.ynet.co.il/news/article/skbuddi0zl",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T21:05:18.000Z"
-    },
-    {
-      "title": "עוד שערורייה בשמאל הקיצוני בברלין: בכירה במפלגה ביקרה במסגד שהוצא מחוץ לחוק",
-      "link": "https://www.ynet.co.il/news/article/b11unioafe",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T20:50:45.000Z"
-    },
-    {
-      "title": "איראן: שלוש מכליות נפט עלו באש לאחר שפגעו במוקשים ימיים סמוך למצר הורמוז",
-      "link": "https://www.walla.co.il/news/breaking-news/383962055",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T20:42:28.000Z"
-    },
-    {
-      "title": "החות'ים טוענים: תקפנו את נמל התעופה והמרכז הפיננסי בריאד",
-      "link": "https://www.walla.co.il/news/breaking-news/383962053",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T20:23:34.000Z"
-    },
-    {
-      "title": "אישה בשנות ה-30 לחייה נדבקה בכלבת ומאושפזת במצב אנוש",
-      "link": "https://www.walla.co.il/news/breaking-news/383962052",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T20:07:22.000Z"
-    },
-    {
-      "title": "עובד לשעבר בלשכת נתניהו בדרישה ליועמ\"שית: \"מבקש למצות את הבדיקה\"",
-      "link": "https://www.maariv.co.il/news/law/article-1390002",
-      "source": "מעריב",
-      "pubDate": "2026-11-18T20:01:46.000Z"
-    },
-    {
-      "title": "התנועה שבה לסדרה לאחר ההפגנה ברחוב בר אילן בירושלים",
-      "link": "https://www.walla.co.il/news/breaking-news/383962051",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T19:58:41.000Z"
-    },
-    {
-      "title": "טראמפ מתוסכל מוואנס על רקע הביקורת שלו על המלחמה באיראן | דיווח",
-      "link": "https://www.ynet.co.il/news/article/h1qaetsafg",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T19:54:29.000Z"
-    },
-    {
-      "title": "הולכת רגל נהרגה בלב תל אביב, רוכב אופנוע נפצע קשה",
-      "link": "https://www.ynet.co.il/news/article/hkf1t00o0fl",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T19:49:10.000Z"
-    },
-    {
-      "title": "טרגדיה בצפון תל אביב: הולכת רגל נהרגה מפגיעת אופנוע, הרוכב נפצע קשה",
-      "link": "https://www.maariv.co.il/news/law/article-1390003",
-      "source": "מעריב",
-      "pubDate": "2026-11-18T19:46:43.000Z"
-    },
-    {
-      "title": "צה\"ל ושב\"כ החלו בפעילות להשמדת מנהרת טרור ממערב לקו הצהוב",
-      "link": "https://www.walla.co.il/news/breaking-news/383962049",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T19:41:02.000Z"
-    },
-    {
-      "title": "נשים בחזית, גברים בצמרת | ח\"כ אושרת גני גונן",
-      "link": "https://www.maariv.co.il/news/opinions/article-1390001",
-      "source": "מעריב",
-      "pubDate": "2026-11-18T19:39:38.000Z"
-    },
-    {
-      "title": "אישה ממושב בשפלה נדבקה בכלבת, מצבה אנוש: \"מיטב המומחים נלחמים על חייה\"",
-      "link": "https://www.ynet.co.il/news/article/skopcdjcme",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T19:35:09.000Z"
-    },
-    {
-      "title": "אישה במצב אנוש לאחר שנדבקה בכלבת: משרד הבריאות מוציא אזהרה",
-      "link": "https://www.maariv.co.il/news/israel/article-1390000",
-      "source": "מעריב",
-      "pubDate": "2026-11-18T19:34:59.000Z"
-    },
-    {
-      "title": "הולכת רגל נהרגה מפגיעת אופנוע בתל אביב, הרוכב נפצע קשה",
-      "link": "https://www.walla.co.il/news/breaking-news/383962048",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T19:31:08.000Z"
     },
     {
       "title": "מקרה הכלבת במרכז הארץ: אישה מאושפזת במצב אנוש, הרופאים נאבקים על חייה",
@@ -603,64 +717,16 @@
       "pubDate": "2026-11-18T19:26:34.000Z"
     },
     {
-      "title": "שני פצועים קשה בתאונה בין אופנוע להולכת רגל בתל אביב",
-      "link": "https://www.walla.co.il/news/breaking-news/383962045",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T19:17:16.000Z"
-    },
-    {
-      "title": "של מי הבייגלה הירושלמי? הפלסטינים מבקשים מאונסק”ו להכיר בו כמורשתם התרבותית",
-      "link": "https://www.ynet.co.il/news/article/hye5thjczl",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T19:14:35.000Z"
-    },
-    {
-      "title": "מקרה כלבת באדם בישראל: משרד הבריאות קורא לאיתור נחשפים",
-      "link": "https://www.walla.co.il/news/breaking-news/383962043",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T18:56:41.000Z"
-    },
-    {
       "title": "אחותו של רן גוילי במסר למשפחת היימנוט קסאו: \"השעון חייב לעצור גם עבורם\"",
       "link": "https://www.walla.co.il/news/israel/383962040",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-18T18:38:47.000Z"
     },
     {
-      "title": "1,000 ימים בלי קצה חוט: \"היימנוט חייבת לחזור\" - ההפגנה והודעת המפכ\"ל",
-      "link": "https://www.ynet.co.il/news/article/bjvqlwscfe",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T18:36:25.000Z"
-    },
-    {
-      "title": "הדריסה בכפר קאסם: חשד שהנהג היה תחת השפעת סמים",
-      "link": "https://www.walla.co.il/news/breaking-news/383962039",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-18T18:31:19.000Z"
-    },
-    {
       "title": "נבדק חשד לרקע לאומני: יהודי דרס ופצע שלושה בכפר קאסם | תיעוד קשה",
       "link": "https://www.walla.co.il/news/israel/383962038",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-18T18:28:48.000Z"
-    },
-    {
-      "title": "היועמ\"שית צפויה להגיש מחדש את כתב האישום נגד ח\"כ גוטליב",
-      "link": "https://www.ynet.co.il/news/article/rjksidjczg",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T18:26:09.000Z"
-    },
-    {
-      "title": "8 פצועים מדריסות בכפר קאסם: נהג נעצר, תיעוד דרמטי מרגעי הפגיעות",
-      "link": "https://www.ynet.co.il/news/article/rk3lyvjaml",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T18:12:18.000Z"
-    },
-    {
-      "title": "\"חולם לחזור לימין\" או \"משחק עם נתניהו\": מה רוצה בנט?",
-      "link": "https://www.ynet.co.il/news/article/h1fkshj0mx",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T17:07:40.000Z"
     },
     {
       "title": "משרד הבריאות בתוכנית חדשה להחזרת רופאים ישראלים מחו\"ל: הדגש על הנגב והגליל",
@@ -673,12 +739,6 @@
       "link": "https://www.walla.co.il/news/israel/383962021",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-18T16:54:23.000Z"
-    },
-    {
-      "title": "כוננות שיא ומסר לאיראן ב\"זרוע הארוכה\": הביקור הקריטי - והניסיון לקדם תקיפות משותפות",
-      "link": "https://www.ynet.co.il/news/article/bypiihi0zl",
-      "source": "Ynet",
-      "pubDate": "2026-11-18T16:36:36.000Z"
     },
     {
       "title": "בפגישה עם ראש ה-CIA: גופמן דחק בארה\"ב לתקוף באיראן | דיווח",
@@ -721,66 +781,6 @@
       "link": "https://www.walla.co.il/news/israel/383961905",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-18T05:58:33.000Z"
-    },
-    {
-      "title": "\"כל מה שאתם מביאים לעולם זה איידס\": הסרטון הישן של ח\"כ אלישע מדן שהופץ מחדש",
-      "link": "https://www.walla.co.il/news/israel/383961898",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-18T04:29:36.000Z"
-    },
-    {
-      "title": "ייבא 5.5 ק\"ג פטריות הזיה ונעצר במארב: השופט האריך את מעצרו ביממה בלבד",
-      "link": "https://www.walla.co.il/news/israel/383961889",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-18T04:14:42.000Z"
-    },
-    {
-      "title": "מעל 65 אלף אזרחים פנו למרכזי הסיוע לנפגעי תקיפה מינית בשנת 25'. ומה קורה במערכת החינוך?",
-      "link": "https://www.walla.co.il/news/israel/383961849",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-18T04:10:56.000Z"
-    },
-    {
-      "title": "הגשם עוד עשוי לחזור, הטמפרטורות יעלו מעט | התחזית",
-      "link": "https://www.walla.co.il/news/israel/383961886",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-18T03:30:00.000Z"
-    },
-    {
-      "title": "\"הבושה עוברת צד\": תמונות הנאשמות בהתעללות בפעוטות באריאל יפורסמו בשלטי חוצות",
-      "link": "https://www.walla.co.il/news/israel/383961818",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-17T13:29:32.000Z"
-    },
-    {
-      "title": "שריפה בבניין מגורים בת\"א: אישה כבת 50 חולצה במצב אנוש ופונתה תוך פעולות החייאה",
-      "link": "https://www.walla.co.il/news/israel/383961809",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-17T13:01:12.000Z"
-    },
-    {
-      "title": "\"החיים קצרים\": קצין המילואים שהלך לעולמו בדרך להגשמת חלום",
-      "link": "https://www.walla.co.il/news/israel/383961810",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-17T12:56:32.000Z"
-    },
-    {
-      "title": "משה בר סימן טוב מסכם כהונה: \"יש בי צער לעזוב, אבל אני שלם\"",
-      "link": "https://www.walla.co.il/news/israel/383961797",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-17T12:02:19.000Z"
-    },
-    {
-      "title": "\"סנטימטר אחד עשה את ההבדל\": זיו הקטן ניצל בזכות פוסט ישן בפייסבוק",
-      "link": "https://www.walla.co.il/news/israel/383961786",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-17T10:24:04.000Z"
-    },
-    {
-      "title": "שורדת השבי תשיר בכיכר החטופים בעצרת למען היימנוט קסאו",
-      "link": "https://www.walla.co.il/news/israel/383961774",
-      "source": "וואלה חדשות",
-      "pubDate": "2026-11-17T09:27:53.000Z"
     }
   ]
 }
