@@ -1,7 +1,103 @@
 {
-  "generatedAt": "2026-11-22T21:59:53.796Z",
+  "generatedAt": "2026-11-23T02:21:02.133Z",
   "count": 130,
   "items": [
+    {
+      "title": "דיווח: ארה\"ב עקבה אחר קשרי המאהבת של מנכ\"ל אנבידיה הפורש עם המודיעין הסיני",
+      "link": "https://www.ynet.co.il/news/article/bkio1zby7e",
+      "source": "Ynet",
+      "pubDate": "2026-11-23T02:16:14.000Z"
+    },
+    {
+      "title": "קליפורניה תובעת את OpenAI: \"מסכנת את שלום הציבור\"",
+      "link": "https://www.walla.co.il/news/breaking-news/383962627",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-23T01:29:23.000Z"
+    },
+    {
+      "title": "הדמוקרטים השיגו רוב שיא בבית הנבחרים מאז שנות ה-90",
+      "link": "https://www.walla.co.il/news/breaking-news/383962626",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-23T00:27:42.000Z"
+    },
+    {
+      "title": "החות'ים טוענים: תקפנו בית זיקוק לנפט בסעודיה",
+      "link": "https://www.walla.co.il/news/breaking-news/383962625",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-22T23:29:02.000Z"
+    },
+    {
+      "title": "הביקור של קפטן אלה בבית ספר בדרום לבנון - והסרטון שעורר סערה",
+      "link": "https://www.ynet.co.il/news/article/s1bxcal1qe",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:55:18.000Z"
+    },
+    {
+      "title": "ספינה רוסית התפוצצה בלוב; עדויות קשות על אונס שבויים אוקראינים: \"אתם הז***ת שלנו\"",
+      "link": "https://www.ynet.co.il/news/article/h1ocd5g17g",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:49:25.000Z"
+    },
+    {
+      "title": "עם הגב לבוחרים",
+      "link": "https://www.ynet.co.il/news/article/yokra14966646",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:45:37.000Z"
+    },
+    {
+      "title": "הקרב הגאה של לבנון",
+      "link": "https://www.ynet.co.il/news/article/yokra14966587",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:37:48.000Z"
+    },
+    {
+      "title": "התיישבות, לא אלימות",
+      "link": "https://www.ynet.co.il/news/article/yokra14966687",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:34:24.000Z"
+    },
+    {
+      "title": "מגפת השנאה משתוללת",
+      "link": "https://www.ynet.co.il/news/article/yokra14966775",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:30:03.000Z"
+    },
+    {
+      "title": "קים ג'ונג און: מוכנים להעמיק קשרים עם מדינות שיכבדו אותנו",
+      "link": "https://www.walla.co.il/news/breaking-news/383962624",
+      "source": "וואלה מבזקים",
+      "pubDate": "2026-11-22T22:28:29.000Z"
+    },
+    {
+      "title": "חברי ישר! שעל הכוונת - ולמה החרדים מחכים לקריסת המו\"מ בין נתניהו לאיזנקוט",
+      "link": "https://www.ynet.co.il/news/article/b100qppl1xg",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:26:49.000Z"
+    },
+    {
+      "title": "תחתית החבית: בפוליטיקה הישראלית אין קווים אדומים",
+      "link": "https://www.ynet.co.il/news/article/yokra14966619",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:26:10.000Z"
+    },
+    {
+      "title": "נרצח עם הילקוט על הגב",
+      "link": "https://www.ynet.co.il/news/article/yokra14967022",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:20:39.000Z"
+    },
+    {
+      "title": "מסע רצח מוזר בארה\"ב: חנק אישה זרה בשמורת טבע - ואז הרג את חברו בחץ וקשת",
+      "link": "https://www.ynet.co.il/news/article/rybin0ejxl",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:01:15.000Z"
+    },
+    {
+      "title": "העתיד האוטונומי של הרכבות בישראל: \"לשם העולם הולך\"",
+      "link": "https://www.ynet.co.il/news/article/yokra14966283",
+      "source": "Ynet",
+      "pubDate": "2026-11-22T22:00:00.000Z"
+    },
     {
       "title": "בצל העלייה באנטישמיות: בכירי רבני אירופה התכנסו בצרפת",
       "link": "https://www.maariv.co.il/news/world/article-1391241",
@@ -15,7 +111,7 @@
       "pubDate": "2026-11-22T21:41:33.000Z"
     },
     {
-      "title": "מפקד משטרת התנועה הארצית פגע ברוכב אופניים עם רכב בכביש 4, מצבו בינוני",
+      "title": "מפקד משטרת התנועה הארצית פגע ברוכב אופניים בכביש 4 - שנפצע באורח בינוני",
       "link": "https://www.walla.co.il/news/israel/383962623",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-22T21:40:36.000Z"
@@ -31,12 +127,6 @@
       "link": "https://www.maariv.co.il/breaking-news/article-1391240",
       "source": "מעריב מבזקים",
       "pubDate": "2026-11-22T21:36:31.000Z"
-    },
-    {
-      "title": "הביקור של קפטן אלה בבית ספר בדרום לבנון - והסרטון שעורר סערה",
-      "link": "https://www.ynet.co.il/news/article/s1bxcal1qe",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T21:26:03.000Z"
     },
     {
       "title": "\"הז*נה של טראמפ\": העוזרת נמצאה כפותה ומדממת ביער - ונאשמת שביימה תקיפה",
@@ -67,12 +157,6 @@
       "link": "https://www.walla.co.il/news/breaking-news/383962618",
       "source": "וואלה מבזקים",
       "pubDate": "2026-11-22T20:38:31.000Z"
-    },
-    {
-      "title": "חברי ישר! שעל הכוונת - ולמה החרדים מחכים לקריסת המו\"מ בין נתניהו לאיזנקוט",
-      "link": "https://www.ynet.co.il/news/article/b100qppl1xg",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T20:33:09.000Z"
     },
     {
       "title": "חשד לאירוע ירי בקריית מוצקין: בן 21 נפצע קשה בדירה - המשטרה פתחה בסריקות",
@@ -175,12 +259,6 @@
       "link": "https://www.maariv.co.il/breaking-news/article-1391207",
       "source": "מעריב מבזקים",
       "pubDate": "2026-11-22T19:35:35.000Z"
-    },
-    {
-      "title": "ספינה רוסית התפוצצה בלוב; עדויות קשות על אונס שבויים אוקראינים: \"אתם הז***ת שלנו\"",
-      "link": "https://www.ynet.co.il/news/article/h1ocd5g17g",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T19:28:24.000Z"
     },
     {
       "title": "הסנאטור ממישיגן ביקר בחריפות את הפוליטיקאי הישראלי - וזה לא נתניהו",
@@ -561,18 +639,6 @@
       "pubDate": "2026-11-22T14:44:36.000Z"
     },
     {
-      "title": "ארבעה קטינים נעצרו בחשד שתקפו צעיר בחוף בבת ים",
-      "link": "https://www.walla.co.il/news/breaking-news/383962562",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-22T14:44:06.000Z"
-    },
-    {
-      "title": "אישום: הזריק חומר הרדמה למטופלת באמצע הלילה - וביצע בה מעשים מגונים",
-      "link": "https://www.ynet.co.il/news/article/rkyojol1qx",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T14:37:09.000Z"
-    },
-    {
       "title": "גבר בן 35 נפצע באורח בינוני באירוע אלימות בסח'נין",
       "link": "https://www.maariv.co.il/breaking-news/article-1391096",
       "source": "מעריב מבזקים",
@@ -591,34 +657,16 @@
       "pubDate": "2026-11-22T14:29:43.000Z"
     },
     {
-      "title": "אוטובוס עלה באש בכביש 1 סמוך למחלף חמד; עומסי תנועה כבדים",
-      "link": "https://www.walla.co.il/news/breaking-news/383962559",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-22T14:25:29.000Z"
-    },
-    {
       "title": "חיילת נלכדה בהפגנת חרדים קיצוניים בירושלים וחולצה בידי שוטרים | תיעוד",
       "link": "https://www.walla.co.il/news/israel/383962551",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-22T14:06:26.000Z"
     },
     {
-      "title": "טראמפ נגד שומר: \"יהיה לי קשה מאוד לעבוד איתו כמנהיג הרוב בסנאט\"",
-      "link": "https://www.walla.co.il/news/breaking-news/383962550",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-22T14:00:51.000Z"
-    },
-    {
       "title": "פרשת הפרוטקשן בצפון: ראש המועצה ובנו בדרך לכתב אישום",
       "link": "https://www.walla.co.il/news/israel/383962548",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-22T13:54:38.000Z"
-    },
-    {
-      "title": "לוב: חשד לתקיפת כטב\"ם נגד ספינה רוסית בנמל בנגאזי",
-      "link": "https://www.walla.co.il/news/breaking-news/383962547",
-      "source": "וואלה מבזקים",
-      "pubDate": "2026-11-22T13:45:49.000Z"
     },
     {
       "title": "בכיר במועצת השלום לוואלה: \"טראמפ הציע דרך קלה או קשה – נתניהו בוחר לא לעשות דבר\"",
@@ -631,24 +679,6 @@
       "link": "https://www.walla.co.il/news/israel/383962537",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-22T13:15:28.000Z"
-    },
-    {
-      "title": "גולן דוחק באיזנקוט: \"הציבור זכאי לתשובה ברורה - מה מונע את הקמת הממשלה\"",
-      "link": "https://www.ynet.co.il/news/article/rjwvwwejme",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T13:00:36.000Z"
-    },
-    {
-      "title": "\"סיומו של פרק כואב וקשה\": 6 שנות מאסר למורה באולפנה שאנסה תלמידות",
-      "link": "https://www.ynet.co.il/news/article/r14lmdly7e",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T12:59:08.000Z"
-    },
-    {
-      "title": "גם פיילוט הנשים בחי\"ר ניוד מתחדש: הכשרת הלוחמות תחל בחודש הבא",
-      "link": "https://www.ynet.co.il/news/article/h17clul17g",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T12:07:43.000Z"
     },
     {
       "title": "פרופ' חגי לוין: \"מדינת ישראל היא מדינה מוכת כלבת\"",
@@ -669,40 +699,10 @@
       "pubDate": "2026-11-22T11:33:40.000Z"
     },
     {
-      "title": "שיבושים בירושלים: חרדים קיצונים חוסמים את הרכבת הקלה",
-      "link": "https://www.ynet.co.il/news/article/sywh5hgkxl",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T11:14:42.000Z"
-    },
-    {
-      "title": "הפסד המנדט ואובדן הכוח בכנסת: מה יקרה אם \"ממשלת החירום\" תיפול בהצבעה?",
-      "link": "https://www.ynet.co.il/news/article/hkv0wsxjqx",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T11:11:02.000Z"
-    },
-    {
       "title": "הגיע למיון בגלל קושי בבליעה – ואובחן עם גידול ענק בגודל כדור טניס",
       "link": "https://www.walla.co.il/news/israel/383962500",
       "source": "וואלה חדשות",
       "pubDate": "2026-11-22T10:50:52.000Z"
-    },
-    {
-      "title": "שנה וחצי מאסר לנהג שגרם למות הזוג בדרך לחופשה, והותיר 3 יתומות",
-      "link": "https://www.ynet.co.il/news/article/rj00qmxlj7g",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T10:30:09.000Z"
-    },
-    {
-      "title": "ילדותיות זו לא אסטרטגיה",
-      "link": "https://www.ynet.co.il/news/article/b1gjjbgymg",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T10:18:53.000Z"
-    },
-    {
-      "title": "הפוליטיקה החדשה מתחילה במקום שבו אנחנו מפסיקים להיות צודקים",
-      "link": "https://www.ynet.co.il/news/article/bjxh2exkxl",
-      "source": "Ynet",
-      "pubDate": "2026-11-22T10:05:49.000Z"
     },
     {
       "title": "הנהג נתפס עם תפילין בזמן נסיעה: זה הקנס שקיבל",
